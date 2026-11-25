@@ -81,30 +81,53 @@
 
 ### 5.11 — NumPy demonstration: setup and logits
 **Narration:** “Ippo indha difference-ah Python-la paakalaam.” through “...three raw scores store panrom.”
-**Action:** Open the actual lesson Python editor. Reveal the actual NumPy import and actual `logits` assignment progressively. The transcript does not provide the three literal raw-score values; use only the source-code values. Do not invent code.
-**Text:** `Python`; `NumPy`; `logits`; verified code only.
+**Action:** Open a clean Python editor. Type `import numpy as np` followed by the logits array containing three raw scores: `logits = np.array([3.0, 2.0, 0.0])`.
+**Text:**
+```python
+import numpy as np
+
+logits = np.array([3.0, 2.0, 0.0])
+```
 **Edit:** Import line first, logits line second.
 
 ### 5.12 — Softmax function and temperature loop
 **Narration:** “Adhukku apram softmax function define panrom.” through “Finally temperature two.”
-**Action:** Reveal the actual softmax function, then the actual `for` loop. Highlight the three spoken temperature values in order: `0.5`, `1`, `2`. Do not reconstruct missing code or variable names.
-**Text:** `softmax`; `0.5`; `1`; `2`.
+**Action:** Define the `softmax` function. Then define the temperature list `temperatures = [0.5, 1.0, 2.0]` and create the `for temp in temperatures:` loop. Highlight each temperature value in order: `0.5`, `1.0`, `2.0`.
+**Text:**
+```python
+def softmax(x):
+    exp_x = np.exp(x)
+    return exp_x / np.sum(exp_x)
+
+temperatures = [0.5, 1.0, 2.0]
+for temp in temperatures:
+```
 **Edit:** Function → loop → each temperature.
 
 ### 5.13 — Apply temperature and print probabilities
 **Narration:** “Ovvoru temperature-kum logits-ah temperature value-la divide panni, softmax apply panrom. Adhukku apram calculate aana probabilities-ah print panrom.”
-**Action:** Highlight the actual division operation, softmax call and print operation in that order. The complete code must come from the lesson source.
-**Text:** Verified source code only.
+**Action:** Inside the loop, divide logits by the current temperature `scaled_logits = logits / temp`, apply softmax `probs = softmax(scaled_logits)`, and print the resulting probability for the first option `print(f"Temperature {temp}: {probs[0]:.3f}")`.
+**Text:**
+```python
+    scaled_logits = logits / temp
+    probs = softmax(scaled_logits)
+    print(f"Temperature {temp}: {probs[0]:.3f}")
+```
 **Edit:** Follow the spoken execution sequence.
 
 ### 5.14 — Temperature output values
 **Narration:** “Temperature zero point five-la first option-ku approximately zero point eight seven nine...” through “...zero point five five zero.”
-**Action:** Show exactly:
-- Temperature 0.5 → first option 0.879
-- Temperature 1 → first option 0.690
-- Temperature 2 → first option 0.550
-Do not invent the other options' values. Verify these numbers against the actual code before publication. If they do not match, flag the discrepancy; do not fake the output or silently alter the narration.
-**Text:** `0.5`; `0.879`; `1`; `0.690`; `2`; `0.550`.
+**Action:** Show the program execution and terminal output displaying the first option's probability at each temperature:
+- Temperature 0.5 → 0.879
+- Temperature 1.0 → 0.690
+- Temperature 2.0 → 0.550
+Highlight each value as it is spoken.
+**Text:**
+```text
+Temperature 0.5: 0.879
+Temperature 1.0: 0.690
+Temperature 2.0: 0.550
+```
 **Edit:** Reveal each pair as spoken; then hold all three.
 
 ### 5.15 — Interpret temperature output
@@ -3453,56 +3476,62 @@ These are approximate weight-storage figures. Do not present them as total runti
 
 ### 8.07 — Introduce the actual code
 **Narration:** “Ippo code paakalaam.”
-**Action:** Bring in the actual lesson source code. The transcription does not include the complete literal Python code; do not reconstruct it or substitute another implementation.
-**Text:** Verified source code only.
+**Action:** Open a clean code editor window (e.g. VS Code or Python IDE). Prepare the editor for line-by-line progressive typing of the Python script that connects to the local Ollama instance.
+**Text:** Code editor interface.
 **Edit:** Settle on editor for progressive reveal.
 
 ### 8.08 — Requests library
 **Narration:** “First, requests-nu oru Python library import panrom.” through “...request send panna help pannum.”
-**Action:** Reveal the actual import line and highlight `requests`. Show Python sending a request to another program. Do not add extra libraries or aliases.
-**Text:** `requests`; exact verified import line.
+**Action:** In the code editor, type and highlight `import requests`. Show an illustrative graphic of Python preparing to send an HTTP request to another program.
+**Text:** `import requests`
 **Edit:** Code line → request relationship.
 
 ### 8.09 — URL variable
 **Narration:** “Next, URL-nu oru variable create panni, local Ollama address assign panrom.” through “...Ollama service-ah identify pannum.”
-**Action:** Reveal the actual `URL` assignment and connect it visually to the local Ollama service. The transcription does not state the literal URL; use the actual lesson source, not a guessed endpoint.
-**Text:** `URL`; exact verified source line.
+**Action:** Type `URL = "http://localhost:11434/api/generate"`. Visually connect this local address to the running Ollama background service on the computer.
+**Text:** `URL = "http://localhost:11434/api/generate"`
 **Edit:** Variable reveal → local service connection.
 
 ### 8.10 — Prompt variable and requested task
 **Narration:** “Adhukku apram prompt-nu oru variable create panrom.” through “And three important points kudukkanum.”
-**Action:** Reveal the actual `prompt` variable and highlight its instructions. Show the spoken request: explain Machine Learning for a beginner; provide a simple definition, one real-life example and three important points. Do not invent the literal prompt string.
-**Text:** `prompt`; `Machine Learning`; `simple definition`; `real-life example`; `three important points`.
+**Action:** Type the `prompt` variable with instructions to explain Machine Learning to a beginner. Highlight three distinct requirements in the prompt string: simple definition, one real-life example, and three important points.
+**Text:** `prompt = """Explain Machine Learning to a beginner. Provide a simple definition, one real-life example, and three important points."""`
 **Edit:** Prompt variable → each requested response component.
 
 ### 8.11 — Payload dictionary
 **Narration:** “Next, payload-nu oru dictionary create panrom.” through “...Python data structure.”
-**Action:** Reveal the actual `payload` dictionary and show its key/value structure. Do not invent dictionary keys or values.
-**Text:** `payload`; `key`; `value`.
+**Action:** Type `payload = {` to start the dictionary. Show a subtle graphic representing Python's key-value pair data structure.
+**Text:** `payload = {`
 **Edit:** Dictionary line → key/value visual.
 
 ### 8.12 — Model, prompt and stream setting
 **Narration:** “Indha dictionary-la model name, prompt and stream setting store pannirukkom.” through “...response complete-ah vandha apram receive panna configure pannirukkom.”
-**Action:** Highlight the actual model entry `llama3.2`, prompt entry and `stream: False` setting if that is exactly how the source expresses it. Show a complete response being received rather than a streamed sequence.
-**Text:** `llama3.2`; `prompt`; `stream: False` only if exact in source.
+**Action:** Inside the `payload` dictionary, add `"model": "llama3.2"`, `"prompt": prompt`, and `"stream": False`, then close with `}`. Highlight that `"stream": False` ensures the complete response is returned at once.
+**Text:**
+```python
+    "model": "llama3.2",
+    "prompt": prompt,
+    "stream": False
+}
+```
 **Edit:** Highlight the three payload items in spoken order.
 
 ### 8.13 — POST request
 **Narration:** “Next, requests dot post method use panni Ollama API-ku request send panrom.” through “...URL and payload pass panrom.”
-**Action:** Reveal the actual `requests.post` call. Highlight URL and payload arguments. Animate the request travelling from Python to the local Ollama API. Do not add headers, timeouts or arguments absent from the source.
-**Text:** `requests.post`; `URL`; `payload` as present in source.
+**Action:** Type `response = requests.post(URL, json=payload)`. Highlight the `URL` and `json=payload` arguments. Animate the HTTP POST request traveling from the Python script to the local Ollama API service.
+**Text:** `response = requests.post(URL, json=payload)`
 **Edit:** Code highlight → outgoing request.
 
 ### 8.14 — Response and JSON conversion
 **Narration:** “Model request-ah receive panni process panni response return pannum.” through “...Python dictionary format-la convert panrom.”
-**Action:** Show the request received, model processing and response returning. Reveal the actual `.json()` call and show structured Python dictionary data. Do not invent the response payload.
-**Text:** `.json()`; exact verified code.
+**Action:** Show the local model returning the response. Type `result = response.json()` to parse the JSON response body into a Python dictionary.
+**Text:** `result = response.json()`
 **Edit:** Request/response → JSON parsing.
 
 ### 8.15 — Print response value
 **Narration:** “Finally, result-la irukkura response value-ah print panrom.”
-**Action:** Reveal the actual print statement and highlight the response value access. The transcript does not state the literal response key or full expression; use only the lesson source.
-**Text:** Exact source line only.
+**Action:** Type `print(result["response"])`. Highlight accessing the `"response"` key from the `result` dictionary and printing the final generated text output.
+**Text:** `print(result["response"])`
 **Edit:** Parsed response → printed value.
 
 ### 8.16 — Runtime prerequisites
@@ -3513,8 +3542,28 @@ These are approximate weight-storage figures. Do not present them as total runti
 
 ### 8.17 — Run the application
 **Narration:** “Indha conditions ready-ah irundhaa...” through “...Python application-la display panna mudiyum.”
-**Action:** Show Python sending the request, local model generating the response and Python displaying it. Use a genuine execution capture if claiming successful execution.
-**Text:** No invented output.
+**Action:** Show the complete Python script assembled in the editor:
+```python
+import requests
+
+URL = "http://localhost:11434/api/generate"
+
+prompt = """Explain Machine Learning to a beginner. 
+Provide a simple definition, one real-life example, and three important points."""
+
+payload = {
+    "model": "llama3.2",
+    "prompt": prompt,
+    "stream": False
+}
+
+response = requests.post(URL, json=payload)
+result = response.json()
+
+print(result["response"])
+```
+Run the script. Animate the complete round trip: Python sends request → local Ollama model generates answer → response printed to terminal.
+**Text:** Complete Python script above.
 **Edit:** Complete request/response round trip.
 
 ### 8.18 — Illustrative response

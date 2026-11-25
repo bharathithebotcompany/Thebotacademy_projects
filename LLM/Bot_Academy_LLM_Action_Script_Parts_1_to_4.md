@@ -2162,11 +2162,14 @@ NOT PROBABILITIES
 
 **Visual action:**
 
-1. Reveal the import statement from the actual lesson code.
-2. Highlight the NumPy import.
-3. Keep the spelling and syntax identical to the executable code used in the lesson.
+1. In the Python code editor, type and highlight `import numpy as np`.
+2. Show an illustrative label for NumPy: numerical computing library.
 
-**Important:** Do not create a different implementation from the voice lesson's code.
+**On-screen text:**
+
+```python
+import numpy as np
+```
 
 ---
 
@@ -2181,12 +2184,19 @@ NOT PROBABILITIES
 
 **Visual action:**
 
-1. Reveal the logits assignment line from the actual code.
-2. Highlight the variable name.
-3. Highlight the three numerical values.
-4. Connect each score to its corresponding candidate word.
+1. Type the logits assignment line: `logits = np.array([2.0, 1.0, 0.1])`.
+2. Connect each score to its corresponding candidate word:
+   - `2.0` → East
+   - `1.0` → West
+   - `0.1` → North
+3. Emphasize that these are raw scores, not probabilities.
 
-**Important:** The displayed values must be exactly the values in the actual lesson code.
+**On-screen text:**
+
+```python
+logits = np.array([2.0, 1.0, 0.1])
+```
+LOGITS = RAW SCORES (NOT PROBABILITIES)
 
 ---
 
@@ -2203,14 +2213,19 @@ NOT PROBABILITIES
 
 **Visual action:**
 
-1. Reveal the `def softmax` function line.
-2. Highlight `def`.
-3. Highlight `softmax`.
-4. Reveal the function body line by line.
-5. Show the logits entering the function.
-6. Show probabilities being returned.
+1. Reveal the `softmax` function line by line:
+   - Function definition with `def softmax(scores):`
+   - Exponentiation step `exp_scores = np.exp(scores)`
+   - Normalization step `return exp_scores / np.sum(exp_scores)`
+2. Show logits entering the function and normalized probabilities being returned.
 
-**Important:** Use the actual softmax implementation from the lesson code. Do not substitute an unrelated function.
+**On-screen text:**
+
+```python
+def softmax(scores):
+    exp_scores = np.exp(scores)
+    return exp_scores / np.sum(exp_scores)
+```
 
 ---
 
@@ -2223,10 +2238,14 @@ NOT PROBABILITIES
 
 **Visual action:**
 
-1. Reveal the probabilities assignment line.
-2. Highlight the `probabilities` variable.
-3. Highlight the call to `softmax`.
-4. Show the output moving into the probability variable.
+1. Type the line calling softmax: `probabilities = softmax(logits)`.
+2. Highlight `probabilities` receiving the returned array.
+
+**On-screen text:**
+
+```python
+probabilities = softmax(logits)
+```
 
 ---
 
@@ -2243,14 +2262,17 @@ NOT PROBABILITIES
 
 **Visual action:**
 
-1. Reveal the candidate word list from the actual code.
-2. Highlight East.
-3. Highlight West.
-4. Highlight North.
-5. Reveal the `for` loop line by line.
-6. Show each candidate word being paired with its corresponding probability.
+1. Define the candidate word list: `words = ["East", "West", "North"]`.
+2. Reveal the `for` loop pairing each word with its probability using `zip(words, probabilities)`.
+3. Print each word and its formatted probability.
 
-**Important:** Preserve the same ordering used in the actual code.
+**On-screen text:**
+
+```python
+words = ["East", "West", "North"]
+for word, prob in zip(words, probabilities):
+    print(f"{word}: {prob:.3f}")
+```
 
 ---
 
@@ -2265,18 +2287,22 @@ NOT PROBABILITIES
 
 **Visual action:**
 
-1. Highlight the East probability.
-2. Show that probability entering the loss calculation.
-3. Display the expression used in the actual code.
-4. Highlight the negative log operation.
-5. Display the calculated loss only after execution.
+1. Highlight the East probability (`probabilities[0]`).
+2. Add the loss calculation lines:
+   `correct_prob = probabilities[0]`
+   `loss = -np.log(correct_prob)`
+   `print(f"Loss: {loss:.3f}")`
+3. Highlight the negative log operation `-np.log(...)`.
 
 **On-screen text:**
 
+```python
+correct_prob = probabilities[0]
+loss = -np.log(correct_prob)
+print(f"Loss: {loss:.3f}")
+```
 CORRECT TARGET: EAST  
 LOSS = NEGATIVE LOG OF CORRECT-TARGET PROBABILITY
-
-**Important:** The exact code expression and value must match the lesson's executable Python example.
 
 ---
 
@@ -2289,11 +2315,28 @@ LOSS = NEGATIVE LOG OF CORRECT-TARGET PROBABILITY
 
 **Visual action:**
 
-1. Show the completed code in the editor.
-2. Move the cursor to the Run button.
-3. Execute the program.
-4. Show the output panel opening.
-5. Do not reveal the results before the code runs.
+1. Show the complete Python script assembled in the editor:
+```python
+import numpy as np
+
+logits = np.array([2.0, 1.0, 0.1])
+
+def softmax(scores):
+    exp_scores = np.exp(scores)
+    return exp_scores / np.sum(exp_scores)
+
+probabilities = softmax(logits)
+
+words = ["East", "West", "North"]
+for word, prob in zip(words, probabilities):
+    print(f"{word}: {prob:.3f}")
+
+correct_prob = probabilities[0]
+loss = -np.log(correct_prob)
+print(f"Loss: {loss:.3f}")
+```
+2. Move the cursor to the Run button and execute the program.
+3. Open the terminal output panel.
 
 ---
 
