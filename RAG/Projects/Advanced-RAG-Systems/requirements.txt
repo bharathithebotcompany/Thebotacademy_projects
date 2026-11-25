@@ -1,0 +1,53 @@
+# Advanced RAG Systems - free-first course requirements
+# Prefer `uv sync` when using pyproject.toml. This file is kept for pip users.
+
+# Core LangChain / LangGraph
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-experimental
+langgraph
+
+# Free/default model providers
+langchain-groq
+langchain-huggingface
+sentence-transformers
+
+# Vector stores and retrieval
+langchain-chroma
+chromadb
+faiss-cpu
+qdrant-client
+rank-bm25
+
+# Document loading
+pypdf
+pdfminer.six
+pdfplumber
+unstructured
+beautifulsoup4
+lxml
+
+# Evaluation
+ragas
+
+# Data, visualization, and notebooks
+numpy
+pandas
+matplotlib
+scikit-learn
+plotly
+jupyter
+ipykernel
+nbformat
+
+# Utilities
+python-dotenv
+tqdm
+pydantic
+tiktoken
+
+# Optional local/graph extensions used in advanced examples
+langchain-ollama
+langchain-neo4j
