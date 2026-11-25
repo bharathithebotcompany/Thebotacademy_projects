@@ -1,0 +1,301 @@
+import json
+import random
+import re
+from typing import cast
+
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_openai import ChatOpenAI
+from pydantic import BaseModel, Field
+
+from config import settings
+from src.generator import CitationVerification
+
+
+def _normalize_for_match(text):
+    return re.sub(r"\s+", " ", text).strip().lower()
+
+
+def evidence_ranks(chunks, evidence):
+    """For each evidence string, the 1-based rank of the first chunk whose
+    text contains it (whitespace- and case-insensitive), or None if no chunk
+    does. This is the objective retrieval signal: it needs no LLM judge, only
+    a gold passage per question."""
+    normalized = [_normalize_for_match(c.page_content) for c in chunks]
+    ranks = []
+    for snippet in evidence:
+        needle = _normalize_for_match(snippet)
+        ranks.append(
+            next((i for i, text in enumerate(normalized, start=1) if needle in text), None)
+        )
+    return ranks
+
+
+def retrieval_scores(ranks):
+    """Per-question retrieval metrics from evidence_ranks() output:
+    hit@1 / hit@k (any evidence retrieved), full@k (all evidence retrieved,
+    which is what a multi-hop question needs), evidence recall, and
+    reciprocal rank of the first evidence-bearing chunk."""
+    found = [r for r in ranks if r is not None]
+    return {
+        "hit@1": float(1 in found),
+        "hit@k": float(bool(found)),
+        "full@k": float(len(found) == len(ranks)),
+        "evidence_recall": len(found) / len(ranks),
+        "reciprocal_rank": 1.0 / min(found) if found else 0.0,
+    }
+
+
+def _split_counts(total, fractions):
+    """Split `total` into integer counts proportional to `fractions` that sum
+    to exactly `total` (largest-remainder rounding). Plain int() truncation
+    loses questions: 15 at 40/30/15/15% would give 6+4+2+2 = 14."""
+    exact = {key: total * frac for key, frac in fractions.items()}
+    counts = {key: int(value) for key, value in exact.items()}
+    leftover = total - sum(counts.values())
+    by_remainder = sorted(exact, key=lambda key: exact[key] - counts[key], reverse=True)
+    for key in by_remainder[:leftover]:
+        counts[key] += 1
+    return counts
+
+
+class QAPair(BaseModel):
+    question: str = Field(description="The generated question")
+    expected_answer: str = Field(description="The ground truth answer")
+    question_type: str = Field(description="The category of the question")
+    source_chunks: list[str] = Field(description="The chunk IDs or filepaths used")
+
+
+class SyntheticEvaluator:
+    def __init__(self, vectorstore, llm=None):
+        self.vectorstore = vectorstore
+        self.llm = llm or ChatOpenAI(
+            model=settings.judge_model, temperature=settings.synthetic_temperature
+        )
+        self.structured_llm = self.llm.with_structured_output(QAPair)
+
+        store_data = self.vectorstore.get()
+        self.all_docs = store_data["documents"]
+        self.all_metadatas = store_data["metadatas"]
+
+    def generate_lookup(self) -> QAPair:
+        idx = random.randint(0, len(self.all_docs) - 1)
+        chunk_text = self.all_docs[idx]
+        source = self.all_metadatas[idx].get("filepath", "Unknown")
+
+        prompt = ChatPromptTemplate.from_template(
+            "Read this text: {context}\n"
+            "Generate a highly specific factual question that can be answered ONLY using this text. "
+            "Provide the correct answer. Set question_type to 'Lookup'."
+        )
+
+        result = cast(
+            QAPair, self.structured_llm.invoke(prompt.format(context=chunk_text))
+        )
+        result.source_chunks = [source]
+        return result
+
+    def generate_multihop(self) -> QAPair:
+        idx1, idx2 = random.sample(range(len(self.all_docs)), 2)
+        chunk1, chunk2 = self.all_docs[idx1], self.all_docs[idx2]
+        source1 = self.all_metadatas[idx1].get("filepath", "Unknown")
+        source2 = self.all_metadatas[idx2].get("filepath", "Unknown")
+
+        prompt = ChatPromptTemplate.from_template(
+            "Text 1: {context1}\nText 2: {context2}\n"
+            "Generate a complex question that REQUIRES information from BOTH texts to answer fully. "
+            "Provide the comprehensive answer. Set question_type to 'Multi-Hop'."
+        )
+
+        result = cast(
+            QAPair,
+            self.structured_llm.invoke(prompt.format(context1=chunk1, context2=chunk2)),
+        )
+        result.source_chunks = [source1, source2]
+        return result
+
+    def generate_unanswerable(self) -> QAPair:
+        idx = random.randint(0, len(self.all_docs) - 1)
+        chunk_text = self.all_docs[idx]
+        source = self.all_metadatas[idx].get("filepath", "Unknown")
+
+        prompt = ChatPromptTemplate.from_template(
+            "Text: {context}\n"
+            "Generate a question that sounds highly relevant to this domain and uses the same entities, "
+            "but asks for a specific detail explicitly NOT present in the text. "
+            "The expected_answer must state what information is missing. Set question_type to 'Unanswerable'."
+        )
+
+        result = cast(
+            QAPair, self.structured_llm.invoke(prompt.format(context=chunk_text))
+        )
+        result.source_chunks = [source]
+        return result
+
+    def generate_ambiguous(self) -> QAPair:
+        idx = random.randint(0, len(self.all_docs) - 1)
+        chunk_text = self.all_docs[idx]
+        source = self.all_metadatas[idx].get("filepath", "Unknown")
+
+        prompt = ChatPromptTemplate.from_template(
+            "Text: {context}\n"
+            "Generate a vaguely worded question regarding this text. Omit specific names, dates, or context. "
+            "The expected_answer should explain why the question cannot be answered as asked and what clarification is needed. "
+            "Set question_type to 'Ambiguous'."
+        )
+
+        result = cast(
+            QAPair, self.structured_llm.invoke(prompt.format(context=chunk_text))
+        )
+        result.source_chunks = [source]
+        return result
+
+    def build_dataset(self, total_questions=50, output_path="evaluation_dataset.json"):
+        dataset = []
+        distribution = _split_counts(
+            total_questions,
+            {
+                self.generate_lookup: 0.4,
+                self.generate_multihop: 0.3,
+                self.generate_unanswerable: 0.15,
+                self.generate_ambiguous: 0.15,
+            },
+        )
+
+        for func, count in distribution.items():
+            for _ in range(count):
+                try:
+                    qa_pair = func()
+                    dataset.append(qa_pair.model_dump())
+                except Exception:
+                    print(f"Generation failed for a {func.__name__} prompt. Skipping.")
+
+        with open(output_path, "w") as f:
+            json.dump(dataset, f, indent=4)
+
+        return dataset
+
+
+class EvaluationScore(BaseModel):
+    score: float = Field(description="Score between 0.0 and 1.0")
+    reasoning: str = Field(description="Brief justification for the assigned score")
+
+
+class RAGEvaluator:
+    def __init__(self, rag_pipeline, judge_llm):
+        self.rag_pipeline = rag_pipeline
+        self.judge_llm = judge_llm.with_structured_output(EvaluationScore)
+        self.citation_judge_llm = judge_llm.with_structured_output(CitationVerification)
+
+    def measure_correctness(self, question, expected, generated):
+        prompt = ChatPromptTemplate.from_template(
+            "Evaluate the correctness of the generated answer against the ground truth.\n"
+            "Question: {question}\nGround Truth: {expected}\nGenerated Answer: {generated}\n"
+            "Assign a score from 0.0 (completely wrong) to 1.0 (perfectly correct)."
+        )
+        return self.judge_llm.invoke(
+            prompt.format(question=question, expected=expected, generated=generated)
+        )
+
+    def measure_faithfulness(self, generated, context):
+        prompt = ChatPromptTemplate.from_template(
+            "Evaluate whether the generated answer is entirely grounded in the provided context.\n"
+            "Context: {context}\nGenerated Answer: {generated}\n"
+            "Assign a score from 0.0 (hallucinated) to 1.0 (perfectly faithful to context)."
+        )
+        return self.judge_llm.invoke(
+            prompt.format(context=context, generated=generated)
+        )
+
+    def measure_retrieval_relevance(self, question, context):
+        prompt = ChatPromptTemplate.from_template(
+            "Evaluate how relevant the retrieved context is to answering the question.\n"
+            "Question: {question}\nContext: {context}\n"
+            "Assign a score from 0.0 (irrelevant) to 1.0 (highly relevant and sufficient)."
+        )
+        return self.judge_llm.invoke(prompt.format(question=question, context=context))
+
+    def measure_citation_accuracy(self, claims, retrieved_chunks):
+        """Independently judge each cited claim against its source chunk —
+        the fraction actually supported, not a copy of the generator's own
+        self-graded confidence figure."""
+        if not claims:
+            return 1.0
+
+        supported_count = 0
+        for claim_data in claims:
+            chunk_ids = claim_data["chunk_ids"]
+            chunk_contents = [
+                retrieved_chunks[cid - 1].page_content
+                for cid in chunk_ids
+                if 0 < cid <= len(retrieved_chunks)
+            ]
+            source_text = "\n\n".join(chunk_contents)
+
+            prompt = (
+                "Evaluate if the following claim is fully supported by the provided source "
+                "text (which may combine multiple cited chunks).\n"
+                f"Claim: {claim_data['claim']}\n"
+                f"Cited Chunk IDs: {chunk_ids}\n"
+                f"Source Text: {source_text}"
+            )
+            result = self.citation_judge_llm.invoke(prompt)
+            if result.is_supported:
+                supported_count += 1
+
+        return supported_count / len(claims)
+
+    def run_test_suite(self, dataset_path):
+        with open(dataset_path, "r") as f:
+            test_cases = json.load(f)
+
+        results = {
+            "total_runs": 0,
+            "avg_correctness": 0.0,
+            "avg_faithfulness": 0.0,
+            "avg_retrieval": 0.0,
+            "avg_citation_accuracy": 0.0,
+            "failures": [],
+        }
+
+        for case in test_cases:
+            query = case["question"]
+            expected = case["expected_answer"]
+
+            rag_response = self.rag_pipeline.generate_robust_answer(query)
+
+            if rag_response.get("status") != "Success":
+                results["failures"].append(
+                    {"query": query, "reason": rag_response.get("reason")}
+                )
+                continue
+
+            generated_answer = rag_response["answer"]
+            retrieved_chunks = rag_response["retrieved_chunks"]
+            context_str = "\n".join([c.page_content for c in retrieved_chunks])
+
+            correctness = self.measure_correctness(query, expected, generated_answer)
+            faithfulness = self.measure_faithfulness(generated_answer, context_str)
+            retrieval = self.measure_retrieval_relevance(query, context_str)
+
+            claims = self.rag_pipeline.parse_citations(generated_answer)
+            citation_accuracy = self.measure_citation_accuracy(claims, retrieved_chunks)
+
+            results["avg_correctness"] += correctness.score
+            results["avg_faithfulness"] += faithfulness.score
+            results["avg_retrieval"] += retrieval.score
+            results["avg_citation_accuracy"] += citation_accuracy
+            results["total_runs"] += 1
+
+        if results["total_runs"] > 0:
+            n = results["total_runs"]
+            results["avg_correctness"] /= n
+            results["avg_faithfulness"] /= n
+            results["avg_retrieval"] /= n
+            results["avg_citation_accuracy"] /= n
+
+        # total_runs counts only answered questions, so the fallback rate's
+        # denominator must be answered + failed (every question asked).
+        n_asked = results["total_runs"] + len(results["failures"])
+        results["fallback_rate"] = len(results["failures"]) / n_asked if n_asked else 0.0
+
+        return results
