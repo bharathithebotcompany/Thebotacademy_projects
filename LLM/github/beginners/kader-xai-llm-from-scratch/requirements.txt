@@ -1,0 +1,5 @@
+# LLM From Scratch — pure PyTorch, nothing exotic.
+torch>=2.0
+# Optional, only if you extend the series:
+# tiktoken      # subword tokenizer (a "next steps" extension)
+# numpy

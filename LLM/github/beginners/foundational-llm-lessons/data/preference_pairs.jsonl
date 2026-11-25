@@ -1,0 +1,1000 @@
+{"prompt": "Convert 'current' to title case.", "chosen": "Current", "rejected": "CURRENT"}
+{"prompt": "Convert 'energy' to title case.", "chosen": "Energy", "rejected": "ENERGY"}
+{"prompt": "What is 44 + 12?", "chosen": "56", "rejected": "53"}
+{"prompt": "Convert 'current' to title case.", "chosen": "Current", "rejected": "CURRENT"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "What is 30 - 19?", "chosen": "11", "rejected": "9"}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "What is 42 - 39?", "chosen": "3", "rejected": "6"}
+{"prompt": "Convert 'machine' to uppercase.", "chosen": "MACHINE", "rejected": "machine"}
+{"prompt": "What is 12 + 17?", "chosen": "29", "rejected": "27"}
+{"prompt": "What is 1 + 42?", "chosen": "43", "rejected": "46"}
+{"prompt": "What is 24 + 46?", "chosen": "70", "rejected": "73"}
+{"prompt": "What is 2 * 6?", "chosen": "12", "rejected": "10"}
+{"prompt": "What is 9 - 15?", "chosen": "-6", "rejected": "-9"}
+{"prompt": "Reverse the word 'circuit'.", "chosen": "tiucric", "rejected": "circuit"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Reverse the word 'spark'.", "chosen": "kraps", "rejected": "spark"}
+{"prompt": "What is 11 + 30?", "chosen": "41", "rejected": "38"}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "What is 39 * 30?", "chosen": "1170", "rejected": "1169"}
+{"prompt": "What is 44 - 50?", "chosen": "-6", "rejected": "-3"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "What is 43 - 2?", "chosen": "41", "rejected": "38"}
+{"prompt": "Convert 'conductor' to uppercase.", "chosen": "CONDUCTOR", "rejected": "conductor"}
+{"prompt": "Reverse the word 'electricity'.", "chosen": "yticirtcele", "rejected": "electricity"}
+{"prompt": "What is 17 - 21?", "chosen": "-4", "rejected": "-7"}
+{"prompt": "Convert 'magnet' to uppercase.", "chosen": "MAGNET", "rejected": "magnet"}
+{"prompt": "What is 9 + 18?", "chosen": "27", "rejected": "25"}
+{"prompt": "Convert 'energy' to uppercase.", "chosen": "ENERGY", "rejected": "energy"}
+{"prompt": "What is 15 * 15?", "chosen": "225", "rejected": "224"}
+{"prompt": "What is 15 + 48?", "chosen": "63", "rejected": "64"}
+{"prompt": "What is 30 - 9?", "chosen": "21", "rejected": "24"}
+{"prompt": "What is 39 + 49?", "chosen": "88", "rejected": "89"}
+{"prompt": "Convert 'science' to title case.", "chosen": "Science", "rejected": "SCIENCE"}
+{"prompt": "What is 24 + 33?", "chosen": "57", "rejected": "58"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is 33 * 28?", "chosen": "924", "rejected": "926"}
+{"prompt": "What is 26 + 35?", "chosen": "61", "rejected": "63"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 1 + 43?", "chosen": "44", "rejected": "42"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "Convert 'electricity' to title case.", "chosen": "Electricity", "rejected": "ELECTRICITY"}
+{"prompt": "What is 31 + 48?", "chosen": "79", "rejected": "76"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "Convert 'conductor' to title case.", "chosen": "Conductor", "rejected": "CONDUCTOR"}
+{"prompt": "Convert 'machine' to uppercase.", "chosen": "MACHINE", "rejected": "machine"}
+{"prompt": "What is 30 * 27?", "chosen": "810", "rejected": "809"}
+{"prompt": "What is 5 - 5?", "chosen": "0", "rejected": "3"}
+{"prompt": "Convert 'conductor' to title case.", "chosen": "Conductor", "rejected": "CONDUCTOR"}
+{"prompt": "What is 20 * 41?", "chosen": "820", "rejected": "818"}
+{"prompt": "What is 18 - 48?", "chosen": "-30", "rejected": "-33"}
+{"prompt": "Reverse the word 'wire'.", "chosen": "eriw", "rejected": "wire"}
+{"prompt": "Convert 'current' to title case.", "chosen": "Current", "rejected": "CURRENT"}
+{"prompt": "What is 15 + 39?", "chosen": "54", "rejected": "51"}
+{"prompt": "Reverse the word 'workshop'.", "chosen": "pohskrow", "rejected": "workshop"}
+{"prompt": "What is 42 - 36?", "chosen": "6", "rejected": "4"}
+{"prompt": "What is 40 * 35?", "chosen": "1400", "rejected": "1399"}
+{"prompt": "Convert 'current' to uppercase.", "chosen": "CURRENT", "rejected": "current"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Reverse the word 'current'.", "chosen": "tnerruc", "rejected": "current"}
+{"prompt": "What is 15 + 39?", "chosen": "54", "rejected": "52"}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "What is 14 * 49?", "chosen": "686", "rejected": "685"}
+{"prompt": "Reverse the word 'current'.", "chosen": "tnerruc", "rejected": "current"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is 30 + 3?", "chosen": "33", "rejected": "36"}
+{"prompt": "What is 21 - 15?", "chosen": "6", "rejected": "9"}
+{"prompt": "What is 22 - 41?", "chosen": "-19", "rejected": "-17"}
+{"prompt": "What is 45 - 1?", "chosen": "44", "rejected": "43"}
+{"prompt": "What is 46 - 47?", "chosen": "-1", "rejected": "-2"}
+{"prompt": "What is 14 * 7?", "chosen": "98", "rejected": "95"}
+{"prompt": "Convert 'circuit' to title case.", "chosen": "Circuit", "rejected": "CIRCUIT"}
+{"prompt": "Convert 'energy' to uppercase.", "chosen": "ENERGY", "rejected": "energy"}
+{"prompt": "What is 28 + 3?", "chosen": "31", "rejected": "30"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is 31 + 41?", "chosen": "72", "rejected": "73"}
+{"prompt": "What is 42 - 17?", "chosen": "25", "rejected": "22"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "Convert 'circuit' to title case.", "chosen": "Circuit", "rejected": "CIRCUIT"}
+{"prompt": "What is 7 + 49?", "chosen": "56", "rejected": "54"}
+{"prompt": "Convert 'energy' to uppercase.", "chosen": "ENERGY", "rejected": "energy"}
+{"prompt": "What is 11 - 41?", "chosen": "-30", "rejected": "-28"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 25 * 8?", "chosen": "200", "rejected": "202"}
+{"prompt": "Reverse the word 'voltage'.", "chosen": "egatlov", "rejected": "voltage"}
+{"prompt": "What is 45 - 1?", "chosen": "44", "rejected": "41"}
+{"prompt": "Convert 'spark' to uppercase.", "chosen": "SPARK", "rejected": "spark"}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Convert 'magnet' to title case.", "chosen": "Magnet", "rejected": "MAGNET"}
+{"prompt": "Reverse the word 'insulator'.", "chosen": "rotalusni", "rejected": "insulator"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is 48 - 9?", "chosen": "39", "rejected": "38"}
+{"prompt": "What is 11 * 21?", "chosen": "231", "rejected": "234"}
+{"prompt": "What is 25 + 2?", "chosen": "27", "rejected": "30"}
+{"prompt": "What is 35 * 6?", "chosen": "210", "rejected": "209"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "Reverse the word 'electricity'.", "chosen": "yticirtcele", "rejected": "electricity"}
+{"prompt": "What is 18 + 49?", "chosen": "67", "rejected": "65"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 3 + 13?", "chosen": "16", "rejected": "17"}
+{"prompt": "What is 13 + 13?", "chosen": "26", "rejected": "25"}
+{"prompt": "What is 38 - 41?", "chosen": "-3", "rejected": "-1"}
+{"prompt": "Reverse the word 'circuit'.", "chosen": "tiucric", "rejected": "circuit"}
+{"prompt": "What is 20 - 40?", "chosen": "-20", "rejected": "-18"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Reverse the word 'wire'.", "chosen": "eriw", "rejected": "wire"}
+{"prompt": "What is 20 - 22?", "chosen": "-2", "rejected": "0"}
+{"prompt": "Reverse the word 'wire'.", "chosen": "eriw", "rejected": "wire"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Reverse the word 'energy'.", "chosen": "ygrene", "rejected": "energy"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Convert 'current' to uppercase.", "chosen": "CURRENT", "rejected": "current"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Reverse the word 'current'.", "chosen": "tnerruc", "rejected": "current"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Convert 'battery' to title case.", "chosen": "Battery", "rejected": "BATTERY"}
+{"prompt": "Convert 'electricity' to title case.", "chosen": "Electricity", "rejected": "ELECTRICITY"}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "What is 32 + 9?", "chosen": "41", "rejected": "39"}
+{"prompt": "What is 23 - 36?", "chosen": "-13", "rejected": "-11"}
+{"prompt": "Convert 'science' to title case.", "chosen": "Science", "rejected": "SCIENCE"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is 26 + 18?", "chosen": "44", "rejected": "43"}
+{"prompt": "Convert 'workshop' to uppercase.", "chosen": "WORKSHOP", "rejected": "workshop"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Reverse the word 'spark'.", "chosen": "kraps", "rejected": "spark"}
+{"prompt": "What is 46 + 45?", "chosen": "91", "rejected": "89"}
+{"prompt": "Convert 'circuit' to title case.", "chosen": "Circuit", "rejected": "CIRCUIT"}
+{"prompt": "Convert 'circuit' to uppercase.", "chosen": "CIRCUIT", "rejected": "circuit"}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is 3 * 5?", "chosen": "15", "rejected": "18"}
+{"prompt": "What is 35 + 39?", "chosen": "74", "rejected": "77"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Convert 'electricity' to uppercase.", "chosen": "ELECTRICITY", "rejected": "electricity"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "Convert 'spark' to uppercase.", "chosen": "SPARK", "rejected": "spark"}
+{"prompt": "Convert 'battery' to title case.", "chosen": "Battery", "rejected": "BATTERY"}
+{"prompt": "Convert 'machine' to uppercase.", "chosen": "MACHINE", "rejected": "machine"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "What is 40 * 29?", "chosen": "1160", "rejected": "1162"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Reverse the word 'magnet'.", "chosen": "tengam", "rejected": "magnet"}
+{"prompt": "What is 15 + 45?", "chosen": "60", "rejected": "63"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is 47 * 21?", "chosen": "987", "rejected": "988"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "Reverse the word 'machine'.", "chosen": "enihcam", "rejected": "machine"}
+{"prompt": "What is 36 * 23?", "chosen": "828", "rejected": "825"}
+{"prompt": "What is 41 + 21?", "chosen": "62", "rejected": "59"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 8 - 42?", "chosen": "-34", "rejected": "-35"}
+{"prompt": "Convert 'wire' to uppercase.", "chosen": "WIRE", "rejected": "wire"}
+{"prompt": "What is 3 + 43?", "chosen": "46", "rejected": "43"}
+{"prompt": "What is 5 * 27?", "chosen": "135", "rejected": "137"}
+{"prompt": "Convert 'current' to title case.", "chosen": "Current", "rejected": "CURRENT"}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "Reverse the word 'current'.", "chosen": "tnerruc", "rejected": "current"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is 35 + 18?", "chosen": "53", "rejected": "52"}
+{"prompt": "What is 21 + 6?", "chosen": "27", "rejected": "28"}
+{"prompt": "What is 3 + 2?", "chosen": "5", "rejected": "8"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Convert 'magnet' to title case.", "chosen": "Magnet", "rejected": "MAGNET"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "Convert 'conductor' to uppercase.", "chosen": "CONDUCTOR", "rejected": "conductor"}
+{"prompt": "What is 16 - 23?", "chosen": "-7", "rejected": "-5"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "Convert 'circuit' to uppercase.", "chosen": "CIRCUIT", "rejected": "circuit"}
+{"prompt": "Reverse the word 'workshop'.", "chosen": "pohskrow", "rejected": "workshop"}
+{"prompt": "What is 39 * 15?", "chosen": "585", "rejected": "586"}
+{"prompt": "Convert 'circuit' to uppercase.", "chosen": "CIRCUIT", "rejected": "circuit"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Convert 'machine' to uppercase.", "chosen": "MACHINE", "rejected": "machine"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is 18 * 32?", "chosen": "576", "rejected": "578"}
+{"prompt": "Convert 'science' to uppercase.", "chosen": "SCIENCE", "rejected": "science"}
+{"prompt": "What is 10 - 10?", "chosen": "0", "rejected": "-3"}
+{"prompt": "Convert 'electricity' to title case.", "chosen": "Electricity", "rejected": "ELECTRICITY"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "Convert 'spark' to uppercase.", "chosen": "SPARK", "rejected": "spark"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Reverse the word 'voltage'.", "chosen": "egatlov", "rejected": "voltage"}
+{"prompt": "Convert 'energy' to uppercase.", "chosen": "ENERGY", "rejected": "energy"}
+{"prompt": "What is 20 - 4?", "chosen": "16", "rejected": "19"}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "Convert 'spark' to uppercase.", "chosen": "SPARK", "rejected": "spark"}
+{"prompt": "Reverse the word 'circuit'.", "chosen": "tiucric", "rejected": "circuit"}
+{"prompt": "What is 13 - 33?", "chosen": "-20", "rejected": "-18"}
+{"prompt": "Reverse the word 'science'.", "chosen": "ecneics", "rejected": "science"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is 34 - 31?", "chosen": "3", "rejected": "0"}
+{"prompt": "What is 42 - 48?", "chosen": "-6", "rejected": "-3"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Reverse the word 'science'.", "chosen": "ecneics", "rejected": "science"}
+{"prompt": "What is 12 * 3?", "chosen": "36", "rejected": "38"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "What is 35 * 49?", "chosen": "1715", "rejected": "1714"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Convert 'electricity' to uppercase.", "chosen": "ELECTRICITY", "rejected": "electricity"}
+{"prompt": "Convert 'energy' to title case.", "chosen": "Energy", "rejected": "ENERGY"}
+{"prompt": "Reverse the word 'energy'.", "chosen": "ygrene", "rejected": "energy"}
+{"prompt": "What is 46 - 41?", "chosen": "5", "rejected": "6"}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "What is 36 * 31?", "chosen": "1116", "rejected": "1117"}
+{"prompt": "Convert 'circuit' to title case.", "chosen": "Circuit", "rejected": "CIRCUIT"}
+{"prompt": "What is 29 * 18?", "chosen": "522", "rejected": "521"}
+{"prompt": "Reverse the word 'workshop'.", "chosen": "pohskrow", "rejected": "workshop"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "Convert 'spark' to uppercase.", "chosen": "SPARK", "rejected": "spark"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "Reverse the word 'electricity'.", "chosen": "yticirtcele", "rejected": "electricity"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "Reverse the word 'wire'.", "chosen": "eriw", "rejected": "wire"}
+{"prompt": "Reverse the word 'voltage'.", "chosen": "egatlov", "rejected": "voltage"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Reverse the word 'science'.", "chosen": "ecneics", "rejected": "science"}
+{"prompt": "What is 11 - 39?", "chosen": "-28", "rejected": "-26"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Convert 'electricity' to uppercase.", "chosen": "ELECTRICITY", "rejected": "electricity"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 42 + 20?", "chosen": "62", "rejected": "64"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Reverse the word 'magnet'.", "chosen": "tengam", "rejected": "magnet"}
+{"prompt": "What is 25 - 48?", "chosen": "-23", "rejected": "-25"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 18 * 29?", "chosen": "522", "rejected": "525"}
+{"prompt": "Convert 'conductor' to uppercase.", "chosen": "CONDUCTOR", "rejected": "conductor"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is 8 - 37?", "chosen": "-29", "rejected": "-28"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Reverse the word 'science'.", "chosen": "ecneics", "rejected": "science"}
+{"prompt": "Convert 'battery' to title case.", "chosen": "Battery", "rejected": "BATTERY"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is 40 * 28?", "chosen": "1120", "rejected": "1121"}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 7 + 40?", "chosen": "47", "rejected": "45"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "Convert 'conductor' to title case.", "chosen": "Conductor", "rejected": "CONDUCTOR"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Reverse the word 'machine'.", "chosen": "enihcam", "rejected": "machine"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "Reverse the word 'conductor'.", "chosen": "rotcudnoc", "rejected": "conductor"}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Convert 'wire' to title case.", "chosen": "Wire", "rejected": "WIRE"}
+{"prompt": "What is 49 * 15?", "chosen": "735", "rejected": "732"}
+{"prompt": "What is 10 + 20?", "chosen": "30", "rejected": "31"}
+{"prompt": "What is 31 + 17?", "chosen": "48", "rejected": "51"}
+{"prompt": "Reverse the word 'spark'.", "chosen": "kraps", "rejected": "spark"}
+{"prompt": "Convert 'wire' to title case.", "chosen": "Wire", "rejected": "WIRE"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 44 * 7?", "chosen": "308", "rejected": "309"}
+{"prompt": "Reverse the word 'insulator'.", "chosen": "rotalusni", "rejected": "insulator"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is 3 - 5?", "chosen": "-2", "rejected": "1"}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "What is 13 * 5?", "chosen": "65", "rejected": "63"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Reverse the word 'electricity'.", "chosen": "yticirtcele", "rejected": "electricity"}
+{"prompt": "Reverse the word 'insulator'.", "chosen": "rotalusni", "rejected": "insulator"}
+{"prompt": "What is 30 + 50?", "chosen": "80", "rejected": "77"}
+{"prompt": "Reverse the word 'conductor'.", "chosen": "rotcudnoc", "rejected": "conductor"}
+{"prompt": "What is 34 * 43?", "chosen": "1462", "rejected": "1464"}
+{"prompt": "What is 18 * 49?", "chosen": "882", "rejected": "880"}
+{"prompt": "What is 39 - 8?", "chosen": "31", "rejected": "29"}
+{"prompt": "Convert 'magnet' to title case.", "chosen": "Magnet", "rejected": "MAGNET"}
+{"prompt": "What is 27 - 21?", "chosen": "6", "rejected": "9"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 5 * 5?", "chosen": "25", "rejected": "28"}
+{"prompt": "What is 39 - 20?", "chosen": "19", "rejected": "17"}
+{"prompt": "What is 25 * 15?", "chosen": "375", "rejected": "376"}
+{"prompt": "What is 34 + 17?", "chosen": "51", "rejected": "50"}
+{"prompt": "Convert 'battery' to title case.", "chosen": "Battery", "rejected": "BATTERY"}
+{"prompt": "Reverse the word 'magnet'.", "chosen": "tengam", "rejected": "magnet"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is 10 - 28?", "chosen": "-18", "rejected": "-16"}
+{"prompt": "What is 19 * 4?", "chosen": "76", "rejected": "77"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is 40 * 27?", "chosen": "1080", "rejected": "1081"}
+{"prompt": "Convert 'circuit' to uppercase.", "chosen": "CIRCUIT", "rejected": "circuit"}
+{"prompt": "Convert 'science' to title case.", "chosen": "Science", "rejected": "SCIENCE"}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is 28 + 13?", "chosen": "41", "rejected": "43"}
+{"prompt": "What is 41 - 35?", "chosen": "6", "rejected": "5"}
+{"prompt": "Convert 'insulator' to uppercase.", "chosen": "INSULATOR", "rejected": "insulator"}
+{"prompt": "What is 41 * 3?", "chosen": "123", "rejected": "120"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is 3 * 16?", "chosen": "48", "rejected": "49"}
+{"prompt": "Reverse the word 'spark'.", "chosen": "kraps", "rejected": "spark"}
+{"prompt": "Reverse the word 'workshop'.", "chosen": "pohskrow", "rejected": "workshop"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Convert 'circuit' to uppercase.", "chosen": "CIRCUIT", "rejected": "circuit"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is 11 + 44?", "chosen": "55", "rejected": "52"}
+{"prompt": "Convert 'electricity' to title case.", "chosen": "Electricity", "rejected": "ELECTRICITY"}
+{"prompt": "Convert 'current' to title case.", "chosen": "Current", "rejected": "CURRENT"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is 36 - 6?", "chosen": "30", "rejected": "31"}
+{"prompt": "What is 41 + 33?", "chosen": "74", "rejected": "75"}
+{"prompt": "What is 3 - 30?", "chosen": "-27", "rejected": "-26"}
+{"prompt": "What is 21 * 42?", "chosen": "882", "rejected": "881"}
+{"prompt": "Reverse the word 'circuit'.", "chosen": "tiucric", "rejected": "circuit"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 23 - 41?", "chosen": "-18", "rejected": "-16"}
+{"prompt": "What is 2 + 48?", "chosen": "50", "rejected": "51"}
+{"prompt": "Convert 'machine' to uppercase.", "chosen": "MACHINE", "rejected": "machine"}
+{"prompt": "What is 25 + 9?", "chosen": "34", "rejected": "36"}
+{"prompt": "Convert 'machine' to uppercase.", "chosen": "MACHINE", "rejected": "machine"}
+{"prompt": "What is 41 - 36?", "chosen": "5", "rejected": "8"}
+{"prompt": "What is 41 + 29?", "chosen": "70", "rejected": "69"}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "Reverse the word 'circuit'.", "chosen": "tiucric", "rejected": "circuit"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Convert 'science' to title case.", "chosen": "Science", "rejected": "SCIENCE"}
+{"prompt": "What is 46 * 31?", "chosen": "1426", "rejected": "1429"}
+{"prompt": "Convert 'battery' to title case.", "chosen": "Battery", "rejected": "BATTERY"}
+{"prompt": "What is 15 * 37?", "chosen": "555", "rejected": "552"}
+{"prompt": "Convert 'wire' to title case.", "chosen": "Wire", "rejected": "WIRE"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is 29 * 8?", "chosen": "232", "rejected": "230"}
+{"prompt": "Convert 'current' to uppercase.", "chosen": "CURRENT", "rejected": "current"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "Reverse the word 'electricity'.", "chosen": "yticirtcele", "rejected": "electricity"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 21 * 1?", "chosen": "21", "rejected": "20"}
+{"prompt": "What is 46 * 26?", "chosen": "1196", "rejected": "1195"}
+{"prompt": "Convert 'machine' to uppercase.", "chosen": "MACHINE", "rejected": "machine"}
+{"prompt": "What is 41 - 31?", "chosen": "10", "rejected": "7"}
+{"prompt": "What is 28 - 16?", "chosen": "12", "rejected": "14"}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "Convert 'circuit' to title case.", "chosen": "Circuit", "rejected": "CIRCUIT"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "Reverse the word 'spark'.", "chosen": "kraps", "rejected": "spark"}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "What is 43 + 9?", "chosen": "52", "rejected": "50"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Convert 'circuit' to title case.", "chosen": "Circuit", "rejected": "CIRCUIT"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 33 + 49?", "chosen": "82", "rejected": "80"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Reverse the word 'insulator'.", "chosen": "rotalusni", "rejected": "insulator"}
+{"prompt": "Reverse the word 'machine'.", "chosen": "enihcam", "rejected": "machine"}
+{"prompt": "What is 4 + 41?", "chosen": "45", "rejected": "42"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Convert 'current' to uppercase.", "chosen": "CURRENT", "rejected": "current"}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "Reverse the word 'energy'.", "chosen": "ygrene", "rejected": "energy"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is 25 + 8?", "chosen": "33", "rejected": "35"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Convert 'electricity' to title case.", "chosen": "Electricity", "rejected": "ELECTRICITY"}
+{"prompt": "Reverse the word 'energy'.", "chosen": "ygrene", "rejected": "energy"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is 50 * 18?", "chosen": "900", "rejected": "901"}
+{"prompt": "Convert 'insulator' to uppercase.", "chosen": "INSULATOR", "rejected": "insulator"}
+{"prompt": "Convert 'wire' to title case.", "chosen": "Wire", "rejected": "WIRE"}
+{"prompt": "Convert 'machine' to uppercase.", "chosen": "MACHINE", "rejected": "machine"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 34 + 43?", "chosen": "77", "rejected": "80"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "Reverse the word 'energy'.", "chosen": "ygrene", "rejected": "energy"}
+{"prompt": "What is 22 * 7?", "chosen": "154", "rejected": "152"}
+{"prompt": "Reverse the word 'workshop'.", "chosen": "pohskrow", "rejected": "workshop"}
+{"prompt": "What is 4 - 9?", "chosen": "-5", "rejected": "-4"}
+{"prompt": "Convert 'electricity' to uppercase.", "chosen": "ELECTRICITY", "rejected": "electricity"}
+{"prompt": "What is 49 * 28?", "chosen": "1372", "rejected": "1371"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "Reverse the word 'workshop'.", "chosen": "pohskrow", "rejected": "workshop"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Reverse the word 'workshop'.", "chosen": "pohskrow", "rejected": "workshop"}
+{"prompt": "What is 49 - 40?", "chosen": "9", "rejected": "7"}
+{"prompt": "Convert 'insulator' to uppercase.", "chosen": "INSULATOR", "rejected": "insulator"}
+{"prompt": "Convert 'workshop' to uppercase.", "chosen": "WORKSHOP", "rejected": "workshop"}
+{"prompt": "Reverse the word 'electricity'.", "chosen": "yticirtcele", "rejected": "electricity"}
+{"prompt": "What is 27 + 50?", "chosen": "77", "rejected": "78"}
+{"prompt": "Reverse the word 'current'.", "chosen": "tnerruc", "rejected": "current"}
+{"prompt": "What is 38 + 25?", "chosen": "63", "rejected": "66"}
+{"prompt": "Reverse the word 'wire'.", "chosen": "eriw", "rejected": "wire"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is 26 * 37?", "chosen": "962", "rejected": "960"}
+{"prompt": "Convert 'circuit' to uppercase.", "chosen": "CIRCUIT", "rejected": "circuit"}
+{"prompt": "What is 33 - 40?", "chosen": "-7", "rejected": "-5"}
+{"prompt": "Convert 'conductor' to title case.", "chosen": "Conductor", "rejected": "CONDUCTOR"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is 3 * 50?", "chosen": "150", "rejected": "153"}
+{"prompt": "What is 48 + 10?", "chosen": "58", "rejected": "61"}
+{"prompt": "Convert 'current' to title case.", "chosen": "Current", "rejected": "CURRENT"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "Convert 'conductor' to title case.", "chosen": "Conductor", "rejected": "CONDUCTOR"}
+{"prompt": "What is 33 - 34?", "chosen": "-1", "rejected": "0"}
+{"prompt": "What is 27 + 15?", "chosen": "42", "rejected": "45"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is 49 - 20?", "chosen": "29", "rejected": "27"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is 34 - 36?", "chosen": "-2", "rejected": "-4"}
+{"prompt": "What is 46 - 34?", "chosen": "12", "rejected": "9"}
+{"prompt": "What is 26 - 7?", "chosen": "19", "rejected": "20"}
+{"prompt": "Convert 'wire' to uppercase.", "chosen": "WIRE", "rejected": "wire"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "Convert 'electricity' to uppercase.", "chosen": "ELECTRICITY", "rejected": "electricity"}
+{"prompt": "Convert 'magnet' to title case.", "chosen": "Magnet", "rejected": "MAGNET"}
+{"prompt": "What is 24 - 20?", "chosen": "4", "rejected": "7"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 38 * 36?", "chosen": "1368", "rejected": "1369"}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "Convert 'energy' to title case.", "chosen": "Energy", "rejected": "ENERGY"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "Convert 'energy' to uppercase.", "chosen": "ENERGY", "rejected": "energy"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Convert 'wire' to title case.", "chosen": "Wire", "rejected": "WIRE"}
+{"prompt": "What is 35 + 17?", "chosen": "52", "rejected": "54"}
+{"prompt": "What is 15 + 1?", "chosen": "16", "rejected": "17"}
+{"prompt": "What is 41 - 3?", "chosen": "38", "rejected": "36"}
+{"prompt": "Convert 'current' to title case.", "chosen": "Current", "rejected": "CURRENT"}
+{"prompt": "Reverse the word 'energy'.", "chosen": "ygrene", "rejected": "energy"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "What is 13 * 29?", "chosen": "377", "rejected": "379"}
+{"prompt": "Convert 'workshop' to uppercase.", "chosen": "WORKSHOP", "rejected": "workshop"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "Reverse the word 'science'.", "chosen": "ecneics", "rejected": "science"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is 3 * 38?", "chosen": "114", "rejected": "116"}
+{"prompt": "What is 17 - 25?", "chosen": "-8", "rejected": "-9"}
+{"prompt": "Convert 'science' to uppercase.", "chosen": "SCIENCE", "rejected": "science"}
+{"prompt": "Reverse the word 'electricity'.", "chosen": "yticirtcele", "rejected": "electricity"}
+{"prompt": "What is 16 - 44?", "chosen": "-28", "rejected": "-26"}
+{"prompt": "Convert 'magnet' to title case.", "chosen": "Magnet", "rejected": "MAGNET"}
+{"prompt": "What is 16 * 20?", "chosen": "320", "rejected": "323"}
+{"prompt": "What is 18 * 36?", "chosen": "648", "rejected": "646"}
+{"prompt": "What is 11 - 39?", "chosen": "-28", "rejected": "-29"}
+{"prompt": "Convert 'energy' to title case.", "chosen": "Energy", "rejected": "ENERGY"}
+{"prompt": "Convert 'battery' to title case.", "chosen": "Battery", "rejected": "BATTERY"}
+{"prompt": "Convert 'science' to title case.", "chosen": "Science", "rejected": "SCIENCE"}
+{"prompt": "Convert 'circuit' to title case.", "chosen": "Circuit", "rejected": "CIRCUIT"}
+{"prompt": "What is 18 * 49?", "chosen": "882", "rejected": "884"}
+{"prompt": "Convert 'spark' to uppercase.", "chosen": "SPARK", "rejected": "spark"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is 12 * 34?", "chosen": "408", "rejected": "410"}
+{"prompt": "What is 42 * 47?", "chosen": "1974", "rejected": "1975"}
+{"prompt": "What is 43 + 50?", "chosen": "93", "rejected": "92"}
+{"prompt": "What is 29 * 6?", "chosen": "174", "rejected": "177"}
+{"prompt": "What is 47 + 17?", "chosen": "64", "rejected": "65"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 21 - 35?", "chosen": "-14", "rejected": "-15"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Reverse the word 'wire'.", "chosen": "eriw", "rejected": "wire"}
+{"prompt": "What is 28 * 20?", "chosen": "560", "rejected": "559"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Convert 'magnet' to uppercase.", "chosen": "MAGNET", "rejected": "magnet"}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "Reverse the word 'science'.", "chosen": "ecneics", "rejected": "science"}
+{"prompt": "What is 34 * 21?", "chosen": "714", "rejected": "712"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Reverse the word 'magnet'.", "chosen": "tengam", "rejected": "magnet"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is 2 * 40?", "chosen": "80", "rejected": "81"}
+{"prompt": "Convert 'energy' to title case.", "chosen": "Energy", "rejected": "ENERGY"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Convert 'circuit' to uppercase.", "chosen": "CIRCUIT", "rejected": "circuit"}
+{"prompt": "What is 7 * 15?", "chosen": "105", "rejected": "106"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "What is 8 + 40?", "chosen": "48", "rejected": "49"}
+{"prompt": "Convert 'conductor' to uppercase.", "chosen": "CONDUCTOR", "rejected": "conductor"}
+{"prompt": "What is 12 * 50?", "chosen": "600", "rejected": "597"}
+{"prompt": "What is 6 * 21?", "chosen": "126", "rejected": "128"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is 3 - 17?", "chosen": "-14", "rejected": "-15"}
+{"prompt": "What is 14 - 6?", "chosen": "8", "rejected": "10"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Convert 'wire' to title case.", "chosen": "Wire", "rejected": "WIRE"}
+{"prompt": "What is 28 - 40?", "chosen": "-12", "rejected": "-11"}
+{"prompt": "Convert 'insulator' to uppercase.", "chosen": "INSULATOR", "rejected": "insulator"}
+{"prompt": "What is 4 * 25?", "chosen": "100", "rejected": "97"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 2 * 11?", "chosen": "22", "rejected": "21"}
+{"prompt": "Convert 'science' to uppercase.", "chosen": "SCIENCE", "rejected": "science"}
+{"prompt": "What is 47 * 25?", "chosen": "1175", "rejected": "1177"}
+{"prompt": "Reverse the word 'machine'.", "chosen": "enihcam", "rejected": "machine"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is 4 + 44?", "chosen": "48", "rejected": "51"}
+{"prompt": "Convert 'conductor' to uppercase.", "chosen": "CONDUCTOR", "rejected": "conductor"}
+{"prompt": "Convert 'machine' to uppercase.", "chosen": "MACHINE", "rejected": "machine"}
+{"prompt": "What is 14 * 23?", "chosen": "322", "rejected": "321"}
+{"prompt": "What is 44 * 10?", "chosen": "440", "rejected": "442"}
+{"prompt": "Reverse the word 'machine'.", "chosen": "enihcam", "rejected": "machine"}
+{"prompt": "What is 27 + 11?", "chosen": "38", "rejected": "36"}
+{"prompt": "Reverse the word 'voltage'.", "chosen": "egatlov", "rejected": "voltage"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is 5 * 24?", "chosen": "120", "rejected": "118"}
+{"prompt": "What is 14 + 13?", "chosen": "27", "rejected": "28"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "What is 40 + 4?", "chosen": "44", "rejected": "41"}
+{"prompt": "What is 50 - 26?", "chosen": "24", "rejected": "22"}
+{"prompt": "Convert 'circuit' to title case.", "chosen": "Circuit", "rejected": "CIRCUIT"}
+{"prompt": "Convert 'magnet' to uppercase.", "chosen": "MAGNET", "rejected": "magnet"}
+{"prompt": "What is 28 + 37?", "chosen": "65", "rejected": "67"}
+{"prompt": "What is 26 * 39?", "chosen": "1014", "rejected": "1016"}
+{"prompt": "Reverse the word 'science'.", "chosen": "ecneics", "rejected": "science"}
+{"prompt": "Reverse the word 'insulator'.", "chosen": "rotalusni", "rejected": "insulator"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "What is 14 + 35?", "chosen": "49", "rejected": "48"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is 22 * 35?", "chosen": "770", "rejected": "769"}
+{"prompt": "What is 38 * 13?", "chosen": "494", "rejected": "496"}
+{"prompt": "Reverse the word 'circuit'.", "chosen": "tiucric", "rejected": "circuit"}
+{"prompt": "What is 24 + 21?", "chosen": "45", "rejected": "44"}
+{"prompt": "What is 23 * 12?", "chosen": "276", "rejected": "277"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 45 - 13?", "chosen": "32", "rejected": "33"}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "Convert 'energy' to title case.", "chosen": "Energy", "rejected": "ENERGY"}
+{"prompt": "What is 17 + 11?", "chosen": "28", "rejected": "31"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Convert 'conductor' to title case.", "chosen": "Conductor", "rejected": "CONDUCTOR"}
+{"prompt": "What is 26 - 40?", "chosen": "-14", "rejected": "-12"}
+{"prompt": "What is 49 - 28?", "chosen": "21", "rejected": "24"}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "Reverse the word 'insulator'.", "chosen": "rotalusni", "rejected": "insulator"}
+{"prompt": "What is 5 * 33?", "chosen": "165", "rejected": "168"}
+{"prompt": "What is 7 * 28?", "chosen": "196", "rejected": "197"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 11 * 6?", "chosen": "66", "rejected": "63"}
+{"prompt": "What is 50 * 10?", "chosen": "500", "rejected": "499"}
+{"prompt": "What is 30 - 23?", "chosen": "7", "rejected": "4"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Convert 'spark' to uppercase.", "chosen": "SPARK", "rejected": "spark"}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is 41 * 19?", "chosen": "779", "rejected": "777"}
+{"prompt": "Reverse the word 'voltage'.", "chosen": "egatlov", "rejected": "voltage"}
+{"prompt": "What is 12 + 13?", "chosen": "25", "rejected": "23"}
+{"prompt": "What is 46 + 38?", "chosen": "84", "rejected": "85"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 16 * 2?", "chosen": "32", "rejected": "34"}
+{"prompt": "What is 46 - 3?", "chosen": "43", "rejected": "42"}
+{"prompt": "Convert 'magnet' to uppercase.", "chosen": "MAGNET", "rejected": "magnet"}
+{"prompt": "Convert 'energy' to title case.", "chosen": "Energy", "rejected": "ENERGY"}
+{"prompt": "Reverse the word 'current'.", "chosen": "tnerruc", "rejected": "current"}
+{"prompt": "Reverse the word 'magnet'.", "chosen": "tengam", "rejected": "magnet"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Convert 'spark' to title case.", "chosen": "Spark", "rejected": "SPARK"}
+{"prompt": "What is 39 - 1?", "chosen": "38", "rejected": "39"}
+{"prompt": "What is 21 * 31?", "chosen": "651", "rejected": "654"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "Reverse the word 'wire'.", "chosen": "eriw", "rejected": "wire"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "Convert 'wire' to uppercase.", "chosen": "WIRE", "rejected": "wire"}
+{"prompt": "Reverse the word 'workshop'.", "chosen": "pohskrow", "rejected": "workshop"}
+{"prompt": "What is 48 - 24?", "chosen": "24", "rejected": "22"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Reverse the word 'current'.", "chosen": "tnerruc", "rejected": "current"}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Convert 'energy' to title case.", "chosen": "Energy", "rejected": "ENERGY"}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Convert 'magnet' to title case.", "chosen": "Magnet", "rejected": "MAGNET"}
+{"prompt": "What is 50 - 22?", "chosen": "28", "rejected": "31"}
+{"prompt": "Reverse the word 'magnet'.", "chosen": "tengam", "rejected": "magnet"}
+{"prompt": "What is 16 + 23?", "chosen": "39", "rejected": "38"}
+{"prompt": "What is 22 * 15?", "chosen": "330", "rejected": "329"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Reverse the word 'magnet'.", "chosen": "tengam", "rejected": "magnet"}
+{"prompt": "What is 50 - 8?", "chosen": "42", "rejected": "45"}
+{"prompt": "Convert 'machine' to title case.", "chosen": "Machine", "rejected": "MACHINE"}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "Reverse the word 'current'.", "chosen": "tnerruc", "rejected": "current"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "Convert 'electricity' to uppercase.", "chosen": "ELECTRICITY", "rejected": "electricity"}
+{"prompt": "What is 6 + 13?", "chosen": "19", "rejected": "22"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is 17 + 28?", "chosen": "45", "rejected": "46"}
+{"prompt": "Reverse the word 'spark'.", "chosen": "kraps", "rejected": "spark"}
+{"prompt": "What is 4 + 37?", "chosen": "41", "rejected": "39"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is 10 - 44?", "chosen": "-34", "rejected": "-31"}
+{"prompt": "What is 41 * 19?", "chosen": "779", "rejected": "778"}
+{"prompt": "What is 5 - 17?", "chosen": "-12", "rejected": "-14"}
+{"prompt": "What is 34 + 44?", "chosen": "78", "rejected": "81"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is 6 + 9?", "chosen": "15", "rejected": "14"}
+{"prompt": "What is 44 - 16?", "chosen": "28", "rejected": "29"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "Convert 'conductor' to uppercase.", "chosen": "CONDUCTOR", "rejected": "conductor"}
+{"prompt": "Convert 'spark' to uppercase.", "chosen": "SPARK", "rejected": "spark"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 22 * 26?", "chosen": "572", "rejected": "570"}
+{"prompt": "What is 50 + 20?", "chosen": "70", "rejected": "71"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is 17 - 27?", "chosen": "-10", "rejected": "-11"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is 23 - 44?", "chosen": "-21", "rejected": "-23"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "Convert 'magnet' to title case.", "chosen": "Magnet", "rejected": "MAGNET"}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "What is 13 + 43?", "chosen": "56", "rejected": "59"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is 41 + 34?", "chosen": "75", "rejected": "76"}
+{"prompt": "Reverse the word 'science'.", "chosen": "ecneics", "rejected": "science"}
+{"prompt": "Reverse the word 'circuit'.", "chosen": "tiucric", "rejected": "circuit"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "Reverse the word 'spark'.", "chosen": "kraps", "rejected": "spark"}
+{"prompt": "Convert 'battery' to title case.", "chosen": "Battery", "rejected": "BATTERY"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is 7 * 46?", "chosen": "322", "rejected": "321"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Reverse the word 'science'.", "chosen": "ecneics", "rejected": "science"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "Convert 'circuit' to title case.", "chosen": "Circuit", "rejected": "CIRCUIT"}
+{"prompt": "Convert 'current' to title case.", "chosen": "Current", "rejected": "CURRENT"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Reverse the word 'insulator'.", "chosen": "rotalusni", "rejected": "insulator"}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "What is 43 * 28?", "chosen": "1204", "rejected": "1201"}
+{"prompt": "What is 16 - 7?", "chosen": "9", "rejected": "11"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is 9 * 24?", "chosen": "216", "rejected": "219"}
+{"prompt": "What is 9 - 24?", "chosen": "-15", "rejected": "-13"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Reverse the word 'circuit'.", "chosen": "tiucric", "rejected": "circuit"}
+{"prompt": "Convert 'workshop' to uppercase.", "chosen": "WORKSHOP", "rejected": "workshop"}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "Reverse the word 'energy'.", "chosen": "ygrene", "rejected": "energy"}
+{"prompt": "Convert 'magnet' to title case.", "chosen": "Magnet", "rejected": "MAGNET"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Convert 'battery' to title case.", "chosen": "Battery", "rejected": "BATTERY"}
+{"prompt": "Convert 'science' to uppercase.", "chosen": "SCIENCE", "rejected": "science"}
+{"prompt": "Convert 'battery' to title case.", "chosen": "Battery", "rejected": "BATTERY"}
+{"prompt": "Convert 'wire' to uppercase.", "chosen": "WIRE", "rejected": "wire"}
+{"prompt": "Convert 'science' to uppercase.", "chosen": "SCIENCE", "rejected": "science"}
+{"prompt": "What is 41 * 18?", "chosen": "738", "rejected": "739"}
+{"prompt": "What is 2 * 37?", "chosen": "74", "rejected": "73"}
+{"prompt": "What is 28 * 34?", "chosen": "952", "rejected": "951"}
+{"prompt": "Convert 'wire' to title case.", "chosen": "Wire", "rejected": "WIRE"}
+{"prompt": "What is 42 * 27?", "chosen": "1134", "rejected": "1131"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 21 - 48?", "chosen": "-27", "rejected": "-24"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Convert 'magnet' to uppercase.", "chosen": "MAGNET", "rejected": "magnet"}
+{"prompt": "What is 25 - 48?", "chosen": "-23", "rejected": "-25"}
+{"prompt": "What is 47 + 11?", "chosen": "58", "rejected": "60"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is 47 * 12?", "chosen": "564", "rejected": "563"}
+{"prompt": "What is 5 * 1?", "chosen": "5", "rejected": "8"}
+{"prompt": "Reverse the word 'voltage'.", "chosen": "egatlov", "rejected": "voltage"}
+{"prompt": "Convert 'current' to title case.", "chosen": "Current", "rejected": "CURRENT"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "Convert 'wire' to uppercase.", "chosen": "WIRE", "rejected": "wire"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is 21 - 19?", "chosen": "2", "rejected": "1"}
+{"prompt": "What is 20 - 45?", "chosen": "-25", "rejected": "-22"}
+{"prompt": "What is 18 * 25?", "chosen": "450", "rejected": "452"}
+{"prompt": "What is 34 * 40?", "chosen": "1360", "rejected": "1357"}
+{"prompt": "What is 7 - 32?", "chosen": "-25", "rejected": "-28"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is 5 + 15?", "chosen": "20", "rejected": "23"}
+{"prompt": "What is 26 - 15?", "chosen": "11", "rejected": "14"}
+{"prompt": "Reverse the word 'conductor'.", "chosen": "rotcudnoc", "rejected": "conductor"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 34 + 42?", "chosen": "76", "rejected": "73"}
+{"prompt": "What is 31 * 2?", "chosen": "62", "rejected": "64"}
+{"prompt": "Convert 'energy' to uppercase.", "chosen": "ENERGY", "rejected": "energy"}
+{"prompt": "What is 40 - 21?", "chosen": "19", "rejected": "16"}
+{"prompt": "What is 38 + 30?", "chosen": "68", "rejected": "70"}
+{"prompt": "Reverse the word 'conductor'.", "chosen": "rotcudnoc", "rejected": "conductor"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is 46 + 34?", "chosen": "80", "rejected": "81"}
+{"prompt": "What is 34 + 26?", "chosen": "60", "rejected": "61"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Convert 'science' to title case.", "chosen": "Science", "rejected": "SCIENCE"}
+{"prompt": "What is 20 - 13?", "chosen": "7", "rejected": "5"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 3 + 45?", "chosen": "48", "rejected": "46"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is 27 * 22?", "chosen": "594", "rejected": "595"}
+{"prompt": "Convert 'energy' to uppercase.", "chosen": "ENERGY", "rejected": "energy"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is 6 * 11?", "chosen": "66", "rejected": "69"}
+{"prompt": "What is 48 * 14?", "chosen": "672", "rejected": "675"}
+{"prompt": "Convert 'spark' to uppercase.", "chosen": "SPARK", "rejected": "spark"}
+{"prompt": "What is 23 * 48?", "chosen": "1104", "rejected": "1106"}
+{"prompt": "Convert 'machine' to uppercase.", "chosen": "MACHINE", "rejected": "machine"}
+{"prompt": "What is 32 * 42?", "chosen": "1344", "rejected": "1343"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 13 * 46?", "chosen": "598", "rejected": "597"}
+{"prompt": "What is 3 + 3?", "chosen": "6", "rejected": "9"}
+{"prompt": "What is 23 + 4?", "chosen": "27", "rejected": "25"}
+{"prompt": "What is 20 * 26?", "chosen": "520", "rejected": "521"}
+{"prompt": "What is 13 + 36?", "chosen": "49", "rejected": "52"}
+{"prompt": "Reverse the word 'electricity'.", "chosen": "yticirtcele", "rejected": "electricity"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Convert 'magnet' to uppercase.", "chosen": "MAGNET", "rejected": "magnet"}
+{"prompt": "What is 45 - 4?", "chosen": "41", "rejected": "44"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is 49 + 21?", "chosen": "70", "rejected": "73"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is 48 * 32?", "chosen": "1536", "rejected": "1539"}
+{"prompt": "Reverse the word 'machine'.", "chosen": "enihcam", "rejected": "machine"}
+{"prompt": "Convert 'workshop' to uppercase.", "chosen": "WORKSHOP", "rejected": "workshop"}
+{"prompt": "What is 22 - 17?", "chosen": "5", "rejected": "3"}
+{"prompt": "What is 14 * 23?", "chosen": "322", "rejected": "325"}
+{"prompt": "What is 32 * 35?", "chosen": "1120", "rejected": "1123"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 11 + 9?", "chosen": "20", "rejected": "23"}
+{"prompt": "Convert 'spark' to title case.", "chosen": "Spark", "rejected": "SPARK"}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "Reverse the word 'circuit'.", "chosen": "tiucric", "rejected": "circuit"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "Convert 'insulator' to uppercase.", "chosen": "INSULATOR", "rejected": "insulator"}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "Convert 'science' to uppercase.", "chosen": "SCIENCE", "rejected": "science"}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "What is 20 + 43?", "chosen": "63", "rejected": "62"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is 37 - 11?", "chosen": "26", "rejected": "28"}
+{"prompt": "Convert 'science' to uppercase.", "chosen": "SCIENCE", "rejected": "science"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 41 * 47?", "chosen": "1927", "rejected": "1925"}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "Convert 'current' to uppercase.", "chosen": "CURRENT", "rejected": "current"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "Convert 'voltage' to uppercase.", "chosen": "VOLTAGE", "rejected": "voltage"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 7 - 17?", "chosen": "-10", "rejected": "-7"}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is 35 - 7?", "chosen": "28", "rejected": "31"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 38 - 38?", "chosen": "0", "rejected": "3"}
+{"prompt": "Convert 'circuit' to title case.", "chosen": "Circuit", "rejected": "CIRCUIT"}
+{"prompt": "What is 21 * 1?", "chosen": "21", "rejected": "18"}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "What is 17 * 42?", "chosen": "714", "rejected": "713"}
+{"prompt": "What is 37 * 9?", "chosen": "333", "rejected": "332"}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "Convert 'current' to uppercase.", "chosen": "CURRENT", "rejected": "current"}
+{"prompt": "What is 6 + 49?", "chosen": "55", "rejected": "54"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is 21 * 29?", "chosen": "609", "rejected": "607"}
+{"prompt": "What is 33 * 8?", "chosen": "264", "rejected": "262"}
+{"prompt": "What is 15 - 9?", "chosen": "6", "rejected": "4"}
+{"prompt": "Reverse the word 'voltage'.", "chosen": "egatlov", "rejected": "voltage"}
+{"prompt": "What is 31 - 47?", "chosen": "-16", "rejected": "-17"}
+{"prompt": "What is 26 - 29?", "chosen": "-3", "rejected": "0"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "What is 35 - 17?", "chosen": "18", "rejected": "16"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "Convert 'current' to uppercase.", "chosen": "CURRENT", "rejected": "current"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "What is 2 - 29?", "chosen": "-27", "rejected": "-26"}
+{"prompt": "Convert 'magnet' to uppercase.", "chosen": "MAGNET", "rejected": "magnet"}
+{"prompt": "What is 2 + 33?", "chosen": "35", "rejected": "38"}
+{"prompt": "What is 18 + 38?", "chosen": "56", "rejected": "59"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 3 * 15?", "chosen": "45", "rejected": "43"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Convert 'energy' to uppercase.", "chosen": "ENERGY", "rejected": "energy"}
+{"prompt": "Convert 'energy' to uppercase.", "chosen": "ENERGY", "rejected": "energy"}
+{"prompt": "Convert 'science' to uppercase.", "chosen": "SCIENCE", "rejected": "science"}
+{"prompt": "What is 34 + 13?", "chosen": "47", "rejected": "50"}
+{"prompt": "Convert 'machine' to title case.", "chosen": "Machine", "rejected": "MACHINE"}
+{"prompt": "What is 30 * 48?", "chosen": "1440", "rejected": "1437"}
+{"prompt": "Convert 'wire' to title case.", "chosen": "Wire", "rejected": "WIRE"}
+{"prompt": "Convert 'science' to title case.", "chosen": "Science", "rejected": "SCIENCE"}
+{"prompt": "What is 33 * 49?", "chosen": "1617", "rejected": "1615"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "Reverse the word 'spark'.", "chosen": "kraps", "rejected": "spark"}
+{"prompt": "Reverse the word 'energy'.", "chosen": "ygrene", "rejected": "energy"}
+{"prompt": "What is 8 + 38?", "chosen": "46", "rejected": "44"}
+{"prompt": "Convert 'conductor' to title case.", "chosen": "Conductor", "rejected": "CONDUCTOR"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 22 - 33?", "chosen": "-11", "rejected": "-14"}
+{"prompt": "What is 24 * 4?", "chosen": "96", "rejected": "98"}
+{"prompt": "Convert 'magnet' to uppercase.", "chosen": "MAGNET", "rejected": "magnet"}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "Reverse the word 'machine'.", "chosen": "enihcam", "rejected": "machine"}
+{"prompt": "Convert 'insulator' to uppercase.", "chosen": "INSULATOR", "rejected": "insulator"}
+{"prompt": "What is 4 - 35?", "chosen": "-31", "rejected": "-34"}
+{"prompt": "What is 15 - 23?", "chosen": "-8", "rejected": "-10"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "Convert 'science' to title case.", "chosen": "Science", "rejected": "SCIENCE"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "Convert 'magnet' to uppercase.", "chosen": "MAGNET", "rejected": "magnet"}
+{"prompt": "Convert 'wire' to title case.", "chosen": "Wire", "rejected": "WIRE"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is 23 - 26?", "chosen": "-3", "rejected": "0"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is 34 * 32?", "chosen": "1088", "rejected": "1090"}
+{"prompt": "What is 10 - 24?", "chosen": "-14", "rejected": "-16"}
+{"prompt": "What is 46 * 17?", "chosen": "782", "rejected": "780"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "What is 33 - 12?", "chosen": "21", "rejected": "18"}
+{"prompt": "Convert 'conductor' to uppercase.", "chosen": "CONDUCTOR", "rejected": "conductor"}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "What is 2 + 48?", "chosen": "50", "rejected": "52"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is 22 + 45?", "chosen": "67", "rejected": "70"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it."}
+{"prompt": "Convert 'wire' to uppercase.", "chosen": "WIRE", "rejected": "wire"}
+{"prompt": "What is 43 + 42?", "chosen": "85", "rejected": "88"}
+{"prompt": "What is 14 * 45?", "chosen": "630", "rejected": "628"}
+{"prompt": "What is 35 - 30?", "chosen": "5", "rejected": "2"}
+{"prompt": "Convert 'battery' to uppercase.", "chosen": "BATTERY", "rejected": "battery"}
+{"prompt": "What is 41 + 25?", "chosen": "66", "rejected": "68"}
+{"prompt": "What is 14 - 46?", "chosen": "-32", "rejected": "-29"}
+{"prompt": "What is 7 - 7?", "chosen": "0", "rejected": "1"}
+{"prompt": "What is 25 + 46?", "chosen": "71", "rejected": "72"}
+{"prompt": "What metals are commonly used in simple batteries?", "chosen": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 7 - 29?", "chosen": "-22", "rejected": "-25"}
+{"prompt": "What is 46 + 9?", "chosen": "55", "rejected": "53"}
+{"prompt": "What is 28 * 23?", "chosen": "644", "rejected": "641"}
+{"prompt": "Convert 'current' to title case.", "chosen": "Current", "rejected": "CURRENT"}
+{"prompt": "What is 22 * 8?", "chosen": "176", "rejected": "175"}
+{"prompt": "What is 31 + 12?", "chosen": "43", "rejected": "44"}
+{"prompt": "Convert 'machine' to uppercase.", "chosen": "MACHINE", "rejected": "machine"}
+{"prompt": "What is 15 * 50?", "chosen": "750", "rejected": "752"}
+{"prompt": "What is 37 * 25?", "chosen": "925", "rejected": "926"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 21 - 16?", "chosen": "5", "rejected": "4"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is 4 + 28?", "chosen": "32", "rejected": "35"}
+{"prompt": "What is 46 - 13?", "chosen": "33", "rejected": "35"}
+{"prompt": "Convert 'workshop' to title case.", "chosen": "Workshop", "rejected": "WORKSHOP"}
+{"prompt": "Convert 'circuit' to uppercase.", "chosen": "CIRCUIT", "rejected": "circuit"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "What is 37 * 38?", "chosen": "1406", "rejected": "1404"}
+{"prompt": "Convert 'magnet' to uppercase.", "chosen": "MAGNET", "rejected": "magnet"}
+{"prompt": "What is 17 + 22?", "chosen": "39", "rejected": "42"}
+{"prompt": "What is the purpose of a switchboard?", "chosen": "A switchboard is used to control and distribute electric current to different circuits.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "Reverse the word 'electricity'.", "chosen": "yticirtcele", "rejected": "electricity"}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "Convert 'wire' to title case.", "chosen": "Wire", "rejected": "WIRE"}
+{"prompt": "Reverse the word 'battery'.", "chosen": "yrettab", "rejected": "battery"}
+{"prompt": "What is 32 + 24?", "chosen": "56", "rejected": "59"}
+{"prompt": "Reverse the word 'conductor'.", "chosen": "rotcudnoc", "rejected": "conductor"}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it."}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Reverse the word 'magnet'.", "chosen": "tengam", "rejected": "magnet"}
+{"prompt": "What is 33 * 25?", "chosen": "825", "rejected": "824"}
+{"prompt": "What is a dynamo?", "chosen": "A dynamo is a machine that converts mechanical energy into electrical energy.", "rejected": "A battery stores chemical energy and converts it into electric current."}
+{"prompt": "Convert 'workshop' to uppercase.", "chosen": "WORKSHOP", "rejected": "workshop"}
+{"prompt": "Reverse the word 'energy'.", "chosen": "ygrene", "rejected": "energy"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "Convert 'electricity' to uppercase.", "chosen": "ELECTRICITY", "rejected": "electricity"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 38 + 22?", "chosen": "60", "rejected": "63"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "Convert 'electricity' to uppercase.", "chosen": "ELECTRICITY", "rejected": "electricity"}
+{"prompt": "Reverse the word 'voltage'.", "chosen": "egatlov", "rejected": "voltage"}
+{"prompt": "Convert 'insulator' to title case.", "chosen": "Insulator", "rejected": "INSULATOR"}
+{"prompt": "Reverse the word 'current'.", "chosen": "tnerruc", "rejected": "current"}
+{"prompt": "Convert 'magnet' to title case.", "chosen": "Magnet", "rejected": "MAGNET"}
+{"prompt": "What does a galvanometer measure?", "chosen": "A galvanometer detects and measures small electric currents.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "Convert 'voltage' to uppercase.", "chosen": "VOLTAGE", "rejected": "voltage"}
+{"prompt": "Convert 'voltage' to title case.", "chosen": "Voltage", "rejected": "VOLTAGE"}
+{"prompt": "What is 15 - 29?", "chosen": "-14", "rejected": "-17"}
+{"prompt": "Reverse the word 'magnet'.", "chosen": "tengam", "rejected": "magnet"}
+{"prompt": "What is 36 - 32?", "chosen": "4", "rejected": "1"}
+{"prompt": "What is 26 - 49?", "chosen": "-23", "rejected": "-20"}
+{"prompt": "What did Thales of Miletus discover?", "chosen": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations.", "rejected": "Zinc and copper are commonly used as the two dissimilar metals in simple batteries."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A galvanometer detects and measures small electric currents."}
+{"prompt": "What is 36 - 50?", "chosen": "-14", "rejected": "-11"}
+{"prompt": "What is 16 * 4?", "chosen": "64", "rejected": "66"}
+{"prompt": "Convert 'energy' to title case.", "chosen": "Energy", "rejected": "ENERGY"}
+{"prompt": "What is 15 - 24?", "chosen": "-9", "rejected": "-11"}
+{"prompt": "Reverse the word 'science'.", "chosen": "ecneics", "rejected": "science"}
+{"prompt": "What is 15 * 21?", "chosen": "315", "rejected": "312"}
+{"prompt": "What is a Leyden jar?", "chosen": "A Leyden jar is an early device used to store static electric charge.", "rejected": "A switchboard is used to control and distribute electric current to different circuits."}
+{"prompt": "What is 50 * 26?", "chosen": "1300", "rejected": "1301"}
+{"prompt": "Convert 'current' to uppercase.", "chosen": "CURRENT", "rejected": "current"}
+{"prompt": "What is an insulator?", "chosen": "An insulator is a material, such as rubber or glass, that does not allow electric current to flow through it.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is an electromagnet?", "chosen": "An electromagnet is a coil of wire that produces a magnetic field when electric current flows through it.", "rejected": "A dynamo is a machine that converts mechanical energy into electrical energy."}
+{"prompt": "What is 20 * 29?", "chosen": "580", "rejected": "581"}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "Thales of Miletus observed that rubbed amber attracted and repelled light bodies, one of the earliest recorded electrical observations."}
+{"prompt": "What is a battery used for?", "chosen": "A battery stores chemical energy and converts it into electric current.", "rejected": "A conductor is a material, such as copper, that allows electric current to flow through it easily."}
+{"prompt": "What is 9 - 7?", "chosen": "2", "rejected": "0"}
+{"prompt": "What is a conductor?", "chosen": "A conductor is a material, such as copper, that allows electric current to flow through it easily.", "rejected": "A Leyden jar is an early device used to store static electric charge."}
+{"prompt": "What is 24 + 3?", "chosen": "27", "rejected": "25"}
+{"prompt": "Reverse the word 'workshop'.", "chosen": "pohskrow", "rejected": "workshop"}
+{"prompt": "Reverse the word 'insulator'.", "chosen": "rotalusni", "rejected": "insulator"}

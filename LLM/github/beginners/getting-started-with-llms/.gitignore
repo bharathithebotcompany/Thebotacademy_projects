@@ -1,0 +1,44 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Black / Ruff / MyPy
+.ruff_cache/
+.mypy_cache/
+
+# Test / coverage / logs
+.pytest_cache/
+coverage.xml
+htmlcov/
+*.log
+
+# LangChain / LangSmith logs (if any)
+lc-logs/
+langchain_logs/
+
+# Node modules
+node_modules/
+
+# Chroma DB
+db/
+
+# .gitignore
+package-lock.json

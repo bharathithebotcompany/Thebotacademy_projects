@@ -1,0 +1,8 @@
+torch>=2.9
+numpy>=2.1
+matplotlib>=3.10
+jupyterlab>=4.4
+ipywidgets>=8.1
+tokenizers>=0.22
+datasets>=3.0
+scikit-learn>=1.5
