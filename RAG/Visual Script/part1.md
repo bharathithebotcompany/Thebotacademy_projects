@@ -138,51 +138,65 @@ Keep the same fictional document throughout the relevant demonstrations.
 
 # SCRIPT 01 — WHY RAG IS NEEDED
 
-**Learning objective:** Demonstrate the limitations of relying only on an LLM's existing knowledge and explain why external knowledge retrieval is required.
+**Learning Objective:** Demonstrate the limitations of relying solely on an LLM's existing knowledge and introduce the need for retrieving relevant information from external knowledge sources.
+
+---
 
 ## SCENE 01 — THE OPENING QUESTION
 
-**Narration reference:** The opening question about asking ChatGPT for the latest college internal examination timetable.
+**Narration Reference:**  
+The opening question about asking ChatGPT for the latest internal examination timetable of a college.
 
-**Visual type:** Realistic UI demonstration.
+**Visual Type:**  
+Realistic UI Demonstration
 
-**Visual action:**
+**Visual Action:**
 
-1. Start with a clean dark screen.
-2. Show a realistic laptop with a ChatGPT-style interface.
-3. Move the cursor to the chat input field.
-4. Type the exact question from the narration about the college's latest internal examination timetable.
-5. Press Enter.
-6. Show the response appearing.
-7. Pause briefly on the answer.
-8. Highlight the fact that the model has not been provided with the college's current timetable document.
+1. Begin with a clean, dark background. Gradually reveal a laptop positioned at the centre of the frame.
+2. Display a realistic, ChatGPT-style conversational interface on the laptop screen.
+3. Move the cursor towards the chat input field.
+4. Type the question being asked in the narration:  
+   **"What is my college's latest internal examination timetable?"**
+5. Press Enter and animate the response appearing on the screen.
+6. Display an illustrative response indicating that the model does not have access to the college's latest timetable unless the relevant information is provided.
+7. Pause briefly to allow viewers to read the response.
+8. Highlight the absence of the actual college timetable as the key limitation.
 
-**On-screen text:**
+**On-Screen Text:**
 
 `WHAT IS MY COLLEGE'S LATEST INTERNAL EXAM TIMETABLE?`
 
-**Important:** Do not invent a real college timetable or present an unverified answer as factual. Use an illustrative response only if clearly labelled.
+`NO TIMETABLE DOCUMENT PROVIDED`
 
-**Transition:** Zoom into the answer and reveal a question mark beside it.
+**Important Production Note:**  
+The interface and response should be treated as an illustrative demonstration, not an actual ChatGPT response. Do not display an invented college timetable or present unverified information as factual.
+
+**Transition:**  
+Slowly zoom into the response. Fade in a question mark beside it, creating a visual sense of uncertainty. Then transition into the knowledge gap comparison.
+
+---
 
 ## SCENE 02 — THE KNOWLEDGE GAP
 
-**Narration reference:** The explanation that the model may not have the latest college-specific information in its existing knowledge.
+**Narration Reference:**  
+The explanation that a language model may not have access to the latest or college-specific information within its existing knowledge.
 
-**Visual type:** Split-screen comparison.
+**Visual Type:**  
+Split-Screen Comparison
 
-**Visual action:**
+**Visual Action:**
 
-1. Divide the screen into two panels.
-2. Left panel: show a general-purpose language model.
-3. Right panel: show a private college document folder.
-4. Display the college's internal timetable as a document inside the folder.
-5. Keep the folder visually disconnected from the model.
-6. Show the user asking about the timetable.
-7. Animate the model attempting to respond without access to the document.
-8. Display a warning indicating that the required source has not been connected.
+1. Divide the screen into two distinct sections.
+2. On the left, display a visual representation of a general-purpose language model.
+3. On the right, introduce a private college document folder.
+4. Open the folder and reveal a document titled **Internal Examination Timetable**.
+5. Keep the document folder visually separated from the language model.
+6. Show the same user question appearing between the two sections.
+7. Animate the language model attempting to respond without having access to the timetable.
+8. Introduce a visual warning between the model and the document folder to indicate that no connection has been established.
+9. Briefly highlight the disconnected document folder to reinforce that the required information exists, but is not available to the model.
 
-**On-screen text:**
+**On-Screen Text:**
 
 `MODEL'S EXISTING KNOWLEDGE`
 
@@ -190,67 +204,93 @@ Keep the same fictional document throughout the relevant demonstrations.
 
 `NO CONNECTED SOURCE`
 
-**Important:** Do not imply that a model can automatically access private college files or live college information.
+**Important Production Note:**  
+Make it clear that a language model does not automatically access private college documents or live institutional information. The document must be explicitly provided or connected through an appropriate retrieval system.
 
-**Transition:** Move the private document folder towards the model.
+**Transition:**  
+Animate a connection line beginning to form between the private document folder and the language model. Use this movement to introduce other situations where external information is required.
+
+---
 
 ## SCENE 03 — WHY EXISTING KNOWLEDGE IS NOT ENOUGH
 
-**Narration reference:** The discussion of private, updated or organization-specific information.
+**Narration Reference:**  
+The explanation of why private, recently updated, and organization-specific information cannot always be answered using only a model's existing knowledge.
 
-**Visual type:** Motion graphic.
+**Visual Type:**  
+Motion Graphics / Animated Concept Illustration
 
-**Visual action:**
+**Visual Action:**
 
-Show three separate examples:
+1. Display a language model on the left side of the screen.
+2. On the right side, introduce three different documents one after another.
 
-1. A newly updated college examination timetable.
-2. An internal company policy document.
-3. A recently updated product manual.
+   - **Document One:** A recently updated college examination timetable.
+   - **Document Two:** An internal company travel reimbursement policy.
+   - **Document Three:** A recently updated product user manual.
 
-Each document receives a label:
+3. Animate each document opening briefly to reveal relevant information inside.
+4. Display a suitable label beside each document:
 
-`UPDATED INFORMATION`
+   - `UPDATED INFORMATION`
+   - `PRIVATE INFORMATION`
+   - `ORGANIZATION-SPECIFIC INFORMATION`
 
-`PRIVATE INFORMATION`
+5. Keep all three documents outside the language model's existing knowledge boundary.
+6. Show a user question appearing for each document, such as asking about an examination date, the maximum travel reimbursement amount, or a product procedure.
+7. Animate the model receiving the questions while the required documents remain disconnected.
+8. Highlight the gap between the user's required information and the information currently available to the model.
 
-`ORGANIZATION-SPECIFIC INFORMATION`
+**On-Screen Text:**
 
-Show the model on the opposite side.
+`THE KNOWLEDGE GAP`
 
-Animate the documents remaining outside the model's existing knowledge until an external retrieval connection is introduced.
+`INFORMATION EXISTS — BUT IS NOT CONNECTED`
 
-**On-screen text:**
+**Transition:**  
+Move the three documents towards the language model. As they approach, introduce a retrieval component between them. This component becomes the visual bridge into the RAG concept.
 
-`KNOWLEDGE GAP`
-
-**Transition:** Bring the document collection and model together.
+---
 
 ## SCENE 04 — INTRODUCING RAG
 
-**Narration reference:** The first explanation of Retrieval-Augmented Generation.
+**Narration Reference:**  
+The first explanation of Retrieval-Augmented Generation and how external information is retrieved and supplied to a language model before generating an answer.
 
-**Visual type:** Premium animated technical diagram.
+**Visual Type:**  
+Premium Animated Technical Diagram
 
-**Visual action:**
+**Visual Action:**
 
-1. Show a document library on the left.
-2. Show a user question entering from the bottom.
-3. Introduce a retrieval component between the document library and the language model.
-4. Animate relevant document passages being selected.
-5. Send those passages to the language model along with the question.
-6. Show the generated answer returning to the user.
-7. Highlight the source document associated with the answer.
+1. Begin with a clean, dark technical background.
+2. Introduce a document library on the left side of the screen. Show multiple documents representing an external knowledge source.
+3. Animate a user's question entering the system from the bottom of the screen.
+4. Introduce a retrieval component between the document library and the language model.
+5. Highlight the retrieval component as it receives the user's question.
+6. Animate the system searching through the available documents.
+7. Show only the relevant passages being selected from the larger document collection.
+8. Move these selected passages towards the language model.
+9. Introduce the user's original question alongside the retrieved passages, showing that both are provided as context to the language model.
+10. Animate the language model processing the question and the retrieved information together.
+11. Display the generated answer returning to the user.
+12. Finally, highlight the source document from which the relevant information was retrieved.
+13. Reveal the complete RAG workflow only after each individual stage has been introduced.
 
-Reveal the process sequentially. Do not show the complete diagram immediately.
-
-**On-screen text:**
+**On-Screen Text:**
 
 `RETRIEVAL-AUGMENTED GENERATION`
 
 `RETRIEVE → AUGMENT → GENERATE`
 
-**Transition:** Zoom into the complete RAG architecture and move to Script 02.
+`USER QUESTION + RETRIEVED CONTEXT`
+
+`GROUNDED ANSWER`
+
+**Important Production Note:**  
+Maintain a clear distinction between retrieving relevant information and generating the final answer. The retrieval component finds relevant information from the external knowledge source; the language model uses that information along with the user's question to generate the response.
+
+**Transition:**  
+Zoom out to reveal the complete RAG architecture. Briefly highlight the flow from the document library to retrieval, then to the language model, and finally to the user. Hold the complete diagram on screen before transitioning into Script 02.
 
 ---
 
