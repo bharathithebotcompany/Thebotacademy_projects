@@ -216,7 +216,7 @@ For example, location Chennai, Bengaluru or Hyderabad-ah irukkalaam.
 
 Property type apartment, independent house or villa-ah irukkalaam.
 
-Inga information numbers illaama categories or names moolama represent pannappadudhu.
+Inga information categories or names moolama represent pannappadudhu.
 
 So, numerical data numbers-ah represent pannum.
 
@@ -243,6 +243,8 @@ For example, namma house dataset-la location, area, bedrooms and selling price i
 House price predict pannanum-na selling price label-ah irukkum.
 
 Aana house price already known-ah irukku, andha house expensive category-ah illa affordable category-ah-nu classify pannanum-na, namma predict panna pora category dhaan label-ah maarum.
+
+For example, selling price-ah base panni houses-ah expensive and affordable-nu categories-ah divide panni, andha category-ah predict panna model train pannalaam.
 
 So, feature and label roles depend on the prediction task.
 
@@ -286,7 +288,7 @@ Because model-ku data provide panradhu mattum podhaadhu.
 
 Andha data-la enna information irukku, adhu epdi organized-ah irukku, model-ku endha information useful-ah irukku-nu namakku theriyanum.
 
-Features-la unnecessary information irundhaa model-ku useful patterns identify panradhu difficult-ah irukkalaam.
+Features-la unnecessary or irrelevant information irundhaa model-ku useful patterns identify panradhu difficult-ah irukkalaam.
 
 Labels incorrect-ah irundhaa Supervised Learning model wrong information-la irundhu learn pannalaam.
 
@@ -297,8 +299,6 @@ Adhanaala model train panradhukku munnadi data-ah properly understand pannanum.
 Data quality-um data structure-um Machine Learning-la important role play pannudhu.
 
 Ippo namma next lesson-la indha data-ah prepare panradhu pathi paaka porom.
-
-Lesson Recap and Transition
 
 Okay!
 

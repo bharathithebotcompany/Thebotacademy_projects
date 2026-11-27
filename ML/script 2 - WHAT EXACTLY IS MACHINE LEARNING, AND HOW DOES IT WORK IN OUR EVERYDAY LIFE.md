@@ -120,7 +120,7 @@ Products-oda category and characteristics-ah compare pannalaam.
 
 Indha information-la irundhu useful patterns identify panni recommendations provide pannalaam.
 
-Idhu recommendation system-oda basic idea.
+Idhuvum recommendation system-oda oru example.
 
 Recommendation-na oru person-ku useful-ah irukkalaam-nu oru item-ah suggest panradhu.
 
@@ -302,7 +302,7 @@ Epdi next word predict pannudhu?
 
 Epdi context maintain pannudhu?
 
-Indha details ellam namma website-la separate-ah LLM course-la explore pannuvom, so after completing this course, go and check it out.
+Indha details ellam namma website-la separate-ah LLM course-la explore pannuvom. So, after completing this course, go and check it out.
 
 Inga namma focus Machine Learning fundamentals mela dhaan.
 

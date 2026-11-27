@@ -36,31 +36,31 @@ Supervised-na guidance or supervision irukkura learning-nu simple-ah understand 
 
 Oru example eduthukonga.
 
-Oru company-ku incoming emails spam-ah irukkaa illaiyaa-nu identify panna Machine Learning model create pannanum.
+Oru system-ku handwritten numbers-ah identify panna kathukkanum-nu vachukonga.
 
-First, company already collect pannina emails-ah eduthukkurom.
+For example, handwritten number images-la zero, one, two, three-nu different numbers irukkum.
 
-Some emails spam-ah irukkum.
+First, namma already collect pannina handwritten number images-ah eduthukkurom.
 
-Some emails normal emails-ah irukkum.
+Inga important thing enna-na, ovvoru image-layum endha number irukku-nu namakku already theriyum.
 
-Inga important thing enna-na, ovvoru email-um endha category-ku belong aagudhu-nu namakku already theriyum.
+So, zero irukkura image-ku zero-nu label provide panrom.
 
-So, spam emails-ku spam-nu label provide panrom.
+One irukkura image-ku one-nu label provide panrom.
 
-Normal emails-ku normal-nu label provide panrom.
+Adhe maadhiri, remaining number images-kum corresponding labels provide panrom.
 
 Label-na oru data example-oda correct answer or category-ah identify panra information.
 
-Ippo indha emails and labels-ah model-ku provide panrom.
+Ippo indha images and labels-ah model-ku provide panrom.
 
-Model emails-la irukkura useful patterns-ah analyse panni learn panna try pannum.
+Model images-la irukkura useful patterns-ah analyse panni learn panna try pannum.
 
-For example, email content, sender details and links maadhiri information model-ku useful-ah irukkalaam.
+For example, image-la irukkura lines, curves and shapes maadhiri information model-ku useful-ah irukkalaam.
 
-Training process moolama model indha information-la irundhu spam and normal emails-kku idaiyila irukkura differences-ah learn pannum.
+Training process moolama model indha information-la irundhu different numbers-kku idaiyila irukkura differences-ah learn pannum.
 
-Training mudinja apram, pudhusa oru email model-kitta provide panninaa, adhu spam-ah illaiyaa-nu predict panna try pannum.
+Training mudinja apram, pudhusa oru handwritten number image model-kitta provide panninaa, adhu endha number-nu predict panna try pannum.
 
 Inga model-ku examples mattum provide pannala.
 
@@ -74,11 +74,13 @@ Indha approach-la model learn panna use panra input information-ku features-nu p
 
 Features-na oru data example-ah describe panna help panra characteristics.
 
-Email example-la sender details, message content and links maadhiri information features-ah irukkalaam.
+Namma handwritten number example-la image-oda pixels and shapes maadhiri information features-ah irukkalaam.
 
 Correct answer dhaan label.
 
 Indha features and labels use panni model training nadakkum.
+
+Features and Labels pathi namma next part-la detailed-ah paaka porom.
 
 Ippo Supervised Learning-la rendu important types irukku.
 
@@ -96,7 +98,7 @@ Inga model output oru number-ah irukkum.
 
 Classification-na oru input endha category-ku belong aagudhu-nu identify panradhu.
 
-Namma paatha email example-la spam or normal-nu identify panradhu Classification.
+Namma paatha handwritten number example-la image zero-va, one-ah, two-va-nu identify panradhu Classification.
 
 So, Supervised Learning-la correct answers irukkura examples use panrom.
 
@@ -292,35 +294,11 @@ Real-world applications-la different Machine Learning techniques combine pannapp
 
 Aana beginner stage-la indha three approaches-oda basic differences clear-ah understand panninaa, adutha Machine Learning concepts-ah easy-ah follow panna mudiyum.
 
-Lesson Recap and Transition
+Ippo namma indha lesson-la Supervised Learning, Unsupervised Learning and Reinforcement Learning pathi paathom.
 
-Okay!
+Supervised Learning-la correct labels irukkura examples use panrom. Unsupervised Learning-la labels illaadha data-la patterns discover panrom. Reinforcement Learning-la actions and rewards moolama learn panrom.
 
-Ippo indha lesson-la namma learn pannina concepts-ah recap pannalaam.
-
-Machine Learning-la three major learning approaches irukku.
-
-Supervised Learning.
-
-Unsupervised Learning.
-
-Reinforcement Learning.
-
-Supervised Learning-la correct labels irukkura examples use panni model train panrom.
-
-Indha approach-la Regression and Classification maadhiri tasks varum.
-
-Unsupervised Learning-la labels illaadha data-la irukkura patterns and similarities-ah identify panrom.
-
-Indha approach-la Clustering maadhiri techniques use pannappadalaam.
-
-Reinforcement Learning-la agent actions perform panni, rewards and feedback moolama learn pannum.
-
-Indha three approaches-um different types of problems solve panna help pannum.
-
-Ippo namma next important question-ku varalaam.
-
-Machine Learning-la computer learn panna data thevai-nu paathom.
+Indha approaches-la model learn panna data romba important.
 
 Aana andha data epdi irukkum?
 

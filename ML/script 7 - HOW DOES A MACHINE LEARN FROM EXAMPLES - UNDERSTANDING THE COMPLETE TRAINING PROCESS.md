@@ -122,7 +122,7 @@ Inga oru important difference-ah understand pannikkonga.
 
 Error-na prediction and actual answer-kku idaiyila irukkura difference.
 
-Loss-na andha error-ah oru particular mathematical method use panni measure panra value.
+Loss-na andha error-ah oru particular mathematical method use panni measure panra value. Sila methods-la multiple predictions-oda errors-ah combine panni oru overall loss value calculate pannuvanga.
 
 Rendu terms-um related-ah irundhaalum, context-ku etha maadhiri use pannuvom.
 
@@ -258,9 +258,7 @@ Model training data-la nalla perform panninaa, adhu real-world-layum nalla predi
 
 Adha epdi verify panradhu?
 
-Idhukku namma dataset-ah separate parts-ah use panrom.
-
-Previous lesson-la Train-Test Split pathi paathom.
+Previous lesson-la Train-Test Split pathi paathom. Andha concept-ah inga briefly remember pannikkalaam.
 
 Training data model learn panradhukku use aagum.
 
@@ -334,7 +332,7 @@ Understanding the Complete Training Process
 
 Ippo namma individual concepts-ah paathom.
 
-Idhellam serndhu complete training process epdi work aagudhu-nu recap pannalaam.
+Idhellam serndhu complete training process epdi work aagudhu-nu connect pannip paakalaam.
 
 First, prepared dataset-ah select panrom.
 
@@ -360,43 +358,11 @@ Aana inga namma paatha process high-level understanding.
 
 Actual-ah parameters epdi calculate aagudhu, loss function epdi work aagudhu, model epdi mathematical operations use panni improve aagudhu-ngura details-ah upcoming lessons-la explore panna porom.
 
-Lesson Recap and Transition
+Ippo varaikkum namma data-ah prepare panradhu, andha data-la irundhu model learn panradhu, and model-oda performance-ah evaluate panradhu pathi understand pannitom.
 
-Okay!
+Aana computer indha data-la irukkura numbers-ah internally epdi represent pannudhu?
 
-Indha lesson-la namma Model Training-oda complete basic process-ah understand pannitom.
-
-Algorithm-na model learn panna use panra method.
-
-Model-na training moolama patterns learn pannina system.
-
-Parameters-na model-oda predictions-ah determine panna help panra internal values.
-
-Loss-na model prediction error-ah measure panra value.
-
-Iteration-na oru training update step.
-
-Epoch-na complete training dataset-ah oru full time process panradhu.
-
-Batch-na oru training step-la process panra data examples-oda group.
-
-Training data model learn panradhukku use aagum.
-
-Validation data model settings and performance check panna use aagum.
-
-Testing data final evaluation-ku use aagum.
-
-Ippo namma data epdi prepare panradhu, model epdi train aagudhu-nguradha understand pannitom.
-
-Aana inga oru interesting question irukku.
-
-Computer-ku house area, number of bedrooms and location maadhiri information provide panrom.
-
-Aana computer indha information-ah internally epdi represent pannudhu?
-
-Numbers-ah epdi organize pannudhu?
-
-Multiple values-ah combine panni calculations epdi perform pannudhu?
+Multiple values-ah epdi organize panni calculations perform pannudhu?
 
 Indha calculations-ku pinnadi irukkura mathematical foundation enna?
 

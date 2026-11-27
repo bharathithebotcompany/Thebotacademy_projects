@@ -122,7 +122,7 @@ Indha values ellame same location-ah represent pannudhu-na, namma consistent for
 
 Appo model-ku same information different categories maadhiri confuse aagura chance reduce aagum.
 
-So, missing values, duplicates and inconsistent records-ah handle panradhu data cleaning-la important steps.
+So, missing values, duplicates and inconsistent records-ah handle panradhu Data Cleaning-la important steps.
 
 Converting Categorical Data into Numbers
 
@@ -144,7 +144,7 @@ So, categorical values-ah suitable numerical format-ku convert panna vendiyirukk
 
 Indha process-ku Encoding-nu peru.
 
-Encoding-na categorical information-ah machine learning model process panna suitable numerical representation-ah convert panradhu.
+Encoding-na categorical information-ah Machine Learning model process panna suitable numerical representation-ah convert panradhu.
 
 Idhula oru simple method One-Hot Encoding.
 
@@ -222,11 +222,7 @@ So, namma use panra model-ah base panni scaling decide pannanum.
 
 Splitting the Dataset for Training and Testing
 
-Ippo namma data clean pannitom.
-
-Categorical values-ah encode pannitom.
-
-Thevaiyaana features-ku scaling-um apply pannitom.
+Ippo namma data cleaning, encoding and feature scaling concepts-ah understand pannitom.
 
 Next, model train panradhukku munnadi dataset-ah separate parts-ah divide pannanum.
 
@@ -300,7 +296,9 @@ Training time-la model-ku provide panra information, actual prediction time-la a
 
 Data preparation steps-um training and testing data separation-ah respect panni perform pannanum.
 
-For example, missing values fill panradhukku use panra average or feature scaling parameters-ah training data-lendhu learn panni, adhe values-ah testing data-kum apply pannanum.
+For example, missing values fill panradhukku use panra average or feature scaling parameters-ah training data-lendhu mattum calculate pannanum.
+
+Adhukku apram andha same values and settings-ah testing data-kum apply pannanum.
 
 Testing data information use panni preparation rules learn panninaa leakage nadakka chance irukku.
 
@@ -323,8 +321,6 @@ Feature scaling thevai padaadha algorithm use panninaa, scaling skip pannalaam.
 So, data preparation-na blindly ellaa steps-um apply panradhu illa.
 
 Dataset-ah understand panni, actual-ah irukkura problems-ku suitable solutions select panradhu dhaan important.
-
-Lesson Recap and Transition
 
 Okay!
 
@@ -362,6 +358,6 @@ Training process-la parameters and error enna role play pannum?
 
 Indha questions-ku answer next part-la paaka porom.
 
-Because data preparation mudinja piragu, Machine Learning-oda most important process  Model Training  epdi work aagudhu-nu understand panna porom.
+Because data preparation mudinja piragu, Machine Learning-oda most important process Model Training epdi work aagudhu-nu understand panna porom.
 
 Let's continue!
